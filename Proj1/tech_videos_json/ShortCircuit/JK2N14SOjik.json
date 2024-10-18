@@ -1,0 +1,414 @@
+{
+    "video_id": "JK2N14SOjik",
+    "title": "The FASTEST computer we have unboxed - AMD EPYC Processors",
+    "channel": "ShortCircuit",
+    "channel_id": "UCdBK94H6oZT2Q7l0-b0xmMg",
+    "subscriber_count": 2310000,
+    "upload_date": "2021-06-24T19:56:35Z",
+    "video_url": "https://www.youtube.com/watch?v=JK2N14SOjik",
+    "category": "Science & Technology",
+    "tags": [
+        "AMD",
+        "EPYC",
+        "Processor",
+        "Server",
+        "Wendell",
+        "Power",
+        "TPD",
+        "1000W",
+        "AI",
+        "Machine Learning"
+    ],
+    "views": 392484,
+    "likes": 21609,
+    "comments_count": 832,
+    "description": "Try Pulseway for free and start remotely monitoring and managing your server or PC at https://lmg.gg/Ktd7Z\n\nAMD Epyc Processors fetch a high price tag for the consumer space but they're primarily used for more commercial or business uses. We take a look at the server that you would see them in, and poke around and see what it can do!\n\nCheck out AMD's new 3rd gen EPYC CPUs at https://lmg.gg/pVY4O\n\nThanks to Wendell for providing the server and processors! Check out his YouTube channel at https://www.youtube.com/user/teksyndicate\n\n►GET MERCH: http://www.LTTStore.com/\n►SUPPORT US ON FLOATPLANE: https://www.floatplane.com/  \n►LTX EXPO: https://www.ltxexpo.com/   \n\nAFFILIATES & REFERRALS\n---------------------------------------------------\n►Affiliates, Sponsors & Referrals: https://lmg.gg/sponsors\n►Private Internet Access VPN: https://lmg.gg/pialinus2\n►Our Official Charging Partner Anker: https://lmg.gg/AnkerLTT\n►MK Keyboards: https://lmg.gg/LyLtl\n►Nerd or Die Stream Overlays: https://lmg.gg/avLlO\n►Official Game Store: https://www.nexus.gg/ltt\n►Amazon Prime: https://lmg.gg/8KV1v\n►Audible Free Trial: https://lmg.gg/8242J\n►Our Gear on Amazon: https://geni.us/OhmF\n \nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: https://twitter.com/ShrtCrctYT\nInstagram: https://www.instagram.com/shortcircuityt\nFacebook: https://www.facebook.com/ShortCircuitYT  \n\nFOLLOW OUR OTHER CHANNELS\n---------------------------------------------------  \nLinus Tech Tips: https://lmg.gg/linustechtipsyt\nTechLinked: https://lmg.gg/techlinkedyt\nMac Address: https://lmg.gg/macaddress\nTechquickie: https://lmg.gg/techquickieyt  \nLMG Clips: https://lmg.gg/lmgclipsyt\nChannel Super Fun: https://lmg.gg/channelsuperfunyt\nCarpool Critics: https://lmg.gg/carpoolcriticsyt\n\nCHAPTERS\n---------------------------------------------------  \n0:00 - Intro\n0:35 - Unboxing\n1:34 - First Impressions & Overview\n3:26 - Light disassembly\n4:04 - AMD Epyc Processors\n5:46 - Server Highlights\n7:02 - Sponsor - Pulseway\n7:42 - Turning on the server\n9:06 - AMD Epyc Processor use cases\n9:29 - Using Pulseway\n11:20 - Outro",
+    "description_links": [
+        "https://lmg.gg/Ktd7Z",
+        "https://lmg.gg/pVY4O",
+        "https://www.youtube.com/user/teksyndicate",
+        "http://www.LTTStore.com/",
+        "https://www.floatplane.com/",
+        "https://www.ltxexpo.com/",
+        "https://lmg.gg/sponsors",
+        "https://lmg.gg/pialinus2",
+        "https://lmg.gg/AnkerLTT",
+        "https://lmg.gg/LyLtl",
+        "https://lmg.gg/avLlO",
+        "https://www.nexus.gg/ltt",
+        "https://lmg.gg/8KV1v",
+        "https://lmg.gg/8242J",
+        "https://geni.us/OhmF",
+        "https://twitter.com/ShrtCrctYT",
+        "https://www.instagram.com/shortcircuityt",
+        "https://www.facebook.com/ShortCircuitYT",
+        "https://lmg.gg/linustechtipsyt",
+        "https://lmg.gg/techlinkedyt",
+        "https://lmg.gg/macaddress",
+        "https://lmg.gg/techquickieyt",
+        "https://lmg.gg/lmgclipsyt",
+        "https://lmg.gg/channelsuperfunyt",
+        "https://lmg.gg/carpoolcriticsyt"
+    ],
+    "transcript": "- Hello. My name is Jake. You got some two and a half inch hard drive SSDs, heat sinks, IRI, fix it, screwdriver. You ever had been stabbed with a Torx bit? Put that in the video. In this box is the fastest dual processor computer on the planet. Were you expecting more? Because that's all it is. It's fast. And it's sent over by our friends Wendell at Level 1 Techs. - How's it going? - You should go check him out because this is technically property of AMD, but he sent it anyways. Thanks man. Also, this video is sponsored by Pulseway More on that later. I don't know what's in here Oh, I see what this is. So this server would have came in like a specific configuration from AMD, but Wendell did some slight modifications because he's had it for a few years. So he actually sent us a little SFP module because I think there's a 10 gig SFP card in there, so a network card. So we'll keep that just in case we need that. Pass for accessories. It's not exactly anything interesting. We've got some two and a half inch hard drive screws and some three and a half inch hard drive screws Really three and a half? Where would you even? Let's see, I don't think you could even fit three and a half inch hard drive on this thing. You got some nice closed cell phone packaging, even though you totally can't buy the server. And there she is. See very nice and shut. Oh, oh Wendell. Oh, you didn't feel it. Oh, I feel the static. Look at my arm hairs. Yeah, baby. Let's go. It feels good to be fast. So looking at this thing on the outside, this is shockingly similar to our current WANic 3 server. Or if you're a psychopath, you might call it a new new WANic. Or if you're a liquid, you might call it the Badger Den but it's effectively kind of the same package. You have two epic CPU's; in our case, these are also 64 core and our current one is also 64 core. So that's a total of 128 in both of them Pop these off. You can see a metric boat load of Ram slots. This system only has about half of them populated right now. I think this is 512 gigs of Ram and would have been like similar to how this this system would have shipped from the manufacturer. And it's not a system that you would buy like this isn't something, you know data center buddy would put on order. This is actually a reference system. So similar to how you get like a reference graphics card from Nvidia, where it's sort of the same design. If you get it from PNY, you get it from EVGA, a reference card is going to be pretty much the same. And that's because the design was actually set up by Nvidia. And in this case, this was actually a project between AMD and Quanto, which is a major server ODM. They would sort of design this system in partnership and they would send them out to your Dell, your HP, your gigabyte so they can base their servers off of this. And you can kind of tell because the Dell system we have in our server room looks very similar to this. Like even down to the fans, popping out, they're in the same place. They got a plastic shroud over the CPU's. I mean, I guess she can't really do it too many ways. There's only so many ways you can design a box but it does look pretty similar. Although the CPU's in this system are very new. The actual chassis is not a recent release. This Daytona chassis, as AMD calls it, was actually released with Epic Rome, or the last generation, but a it's seen a bios update and I guess was built with the power spec in mind that it can handle these 280 watt each CPU's. And I guess while we're in here, we might as well start taking it apart. Very like Dell-esk with the blue markers to sort of indicate things you can actually touch with your hands, like here you're supposed to hold there to pull out or here you're supposed to push this or whatever. They usually use blue to mark it, but this is pretty crazy. You see the CPU coolers? They, I guess, didn't have quite enough gumption in this spot that they put a heat pipe out to have a little like satellite heat sink. Look at that. That's what's so weird. - [David] I've never seen that. - Yeah, they look like little like antennas. I suppose I might've been teasing you guys a little bit too much. If you haven't guessed already what's underneath here is two of AMD's latest Milan CPU's and it sounds kind of like a fancy place but it's actually a processor, it's a family of processors. And in this case we have two, like I said 64 core before, we have 2 64 core, what are they? 7763's I think. The absolute top of the line Milan CPU so. With those CPU's that should make this the fastest system basically on the planet, assuming you only have two CPU since they're the fastest in themselves and you put two it's gotta be the fastest with two, right? And here they are. Woah, what the heck? Have you ever seen blue thermal paste? - Nope. - What the hell? I've never seen thermal paste like that before. Okay, so we got the CPU's all cleaned up and oh look at those 7763. That thing costs like $8,000 and there's two of them. Oh. There's something about just holding 10 grand in your hands that never really gets old. So this is a 64 core, 128 thread. Like I mentioned before, it's got a 2.45 gigahertz base, a 3.5 gigahertz boost, on 64 cores. And unlike the previous generation Rome CPU's, this guy, at least there's, there's a couple that they released like halfway through that could do it, but this one can do 280 Watts which is just a mind numbing amount of power for one CPU, especially when you consider there's another one. And now one of the concerns I originally had with this chassis is because it's from the previous generation, it wouldn't be able to do that much power, but, you know, according to Wendell, it will do it no problem. Before we start up, we should probably go over a few other interesting things here. You want to take a look at the Ram that Wendell included for us 32 gigs of micron 3,200. Yeah, that sounds about right. That's of the, the standard for epic. You need that crazy fast Ram to keep those CPU's fed. What have we got on the back here? Let's check out the power supply situation. Your typical redundant power supplies set up. And a thousand Watt platinum. That's pretty good. I don't think this is as much as are WANic 3 but I don't think this server is set up for doing GPU stuff so a thousand Watts is plenty for the 500 Watts of CPU and probably like a hundred Watts of fans. These are 12 volt, three amp. So you're looking 36 Watts. - [David] Whoa. - [Jono] Are those blowie-matrons? - Yeah. These probably blow at like 15,000 RPM. So what there's three of them. Yeah. That's that's a Wattage just for fans. I guess on the back the server doesn't really have anything pre-configured but Wendell did throw in a 25 gig card down there. You can see that SFP 28 connections for that. Oh, there's one more thing I wanted to do. Oh yeah. Alright, let's start this thing up. after our message from our sponsor, Pulseway. - With Pulseway's remote monitoring and management software, you'll be the first to know when a user has an issue or when there's a problem with your IT environment. Pulseway gives you out of the box commands to take actions such as killing processes, resetting user passwords, running PowerShell commands, backing up files, and even remote control. With powerful auto remediation, Pulseway can automatically resolve critical IT issues like low disk space, high CPU usage, and even restart your services. And the best part is you can do this all from their mobile app or from your desktop fully featured regardless of the platform. - So try for free today at pulseway.com or check out the link in the description. And, just to make it a little bit easier for you, we're even going to install it on this machine and show you how it works briefly. It's pretty sweet. - [Jono] There you go. - [David] There we go. - Ah, it was magic. It was all me. I did it. Boom. Yeah. This is the quiet mode. (laughter) Oh look, whoa. That is the, the most half-assed boot icon ever. They must've been like \"Hey we can put up, we can put up a boot image on the bios\" and then AMD was like, \"Oh, let me just look at download Google images, Epic logo.\" They didn't even bother to make it black. Oh, what? You see this? Did you see this? - [David] Yeah, I saw it. - It said lgdstore.com? Dammit Wendell. - [David] What's up with this? - Ah, there's no drivers probably. Alright, we don't have internet. Dammit. Oh, actually he sent us a thing just for that. - [David] Oh, Wendell. - Wendell. I did it again with the SOT modules. Oh. I honestly actually don't even know if this will work, but we're going to try it. Oh, it's blinking. It's doing things. Oh man, we're doing CPU and coding. I don't know if this thing can handle it. Actually. I kind of want to see what this looks like. Ten percent, that's quite a bit. You hear the fan kicking up? - [David] Wow. Huh. - You know, you have a lot cores when you have to scroll through them. Either way, that's a lot of cores. And a lot of Ram, like 512 gigs. Having this many cores, it starts to beg the question of \"what do you use this for?\" I mean, for us, we have a similar set up It's CPU, sitting at like 5%, most of the time. We just like it for the PCIE bandwidth. But if you're gonna use this in the real world, this is a system you'd probably do some like machine learning computation on, or you might have it in a slightly different chassis with multiple GPU's. So you can actually make use of those PCA lanes or super, super fast storage. Well, it wouldn't be a sponsored video with Pulseway if we didn't install Pulseway and I'll show you just how easy it is. We'll go to Pulseway.com. Probably should have looked Oh, Resources, Downloads Look, I didn't even know where I was looking and I still found it that easily. Pulseway for Windows. Download. Come on super fast server. I know you can do it. Next. I agree. Sign my life away. Bada bing, bada boom. Pulseway's installed. Oh, I still gotta log in, but it's installed. Alright, so we got it installed. You can see WANic 3 here, eighty-five days, that's not bad update time. (laughter) I think the last time it went down was the Windows updates. But yeah, here, look at that. We've got our 0% CPU usage. We got so much RAM. It's like five hundred eleven gigabytes out of five hundred and twenty. Oof. You can see lots of stuff in here. You've got your hardware so we can see our temps and our fan speeds. Wow. Even, oh, you see the CPA's are hot. Seventy two degrees. The like very quiet studio mode just makes these things cook. Oh wow. It even shows you like your SEDA remaining lifespan from your smart statistics. That's very cool. You can see printers, storage. Here, let's do this Windows update. We'll just force it to Windows update. Four updates found. Cool. Restart. Oh, actually, no, I don't want to do that. There's nobody else recording. Dang it. Ah, here lock, monitor. I'm locking the desktop. Look at that. It locked. - [David] What? - Look. The point is Pulseway gives you a ton of control, analytics, everything you could possibly want as an IT system administrator. And you can do it all from the comfort of your home, sitting on your bum on your phone. You know, if you're working from home because there's a pandemic, but, if not, you can also do it on the website. It's great. Check it out at the link in the description or pulseway.com. So unfortunately, while this is very performance oriented, it's supposed to break records, I can't show you any of that yet. Stay tuned for the full LDT video where we're actually gonna, you know, do the Cinebench, apparently above a hundred thousand RAM. Like just crazy stuff like that in the LDT video, but for now, thanks for checking out this video. If you like really cool bleeding edge technology, maybe check out the video I did on Starlink. Thanks to Pulseway for sponsoring it. Definitely check them out in the description and we'll see you on the next one. Get subscribed baby.",
+    "transcript_keywords": [
+        "CPU",
+        "Pulseway",
+        "Wendell",
+        "system",
+        "Yeah",
+        "Ram",
+        "Milan CPU",
+        "AMD",
+        "server",
+        "half inch hard",
+        "thing",
+        "Watts",
+        "half inch",
+        "half",
+        "video",
+        "inch hard drive",
+        "similar",
+        "CPU usage",
+        "Put",
+        "check"
+    ],
+    "transcript_entities": [
+        [
+            "2 64",
+            "CARDINAL"
+        ],
+        [
+            "Ram",
+            "ORG"
+        ],
+        [
+            "Epic Rome",
+            "PERSON"
+        ],
+        [
+            "Google",
+            "ORG"
+        ],
+        [
+            "some two and a half inch",
+            "CARDINAL"
+        ],
+        [
+            "some three and a half inch",
+            "CARDINAL"
+        ],
+        [
+            "Pulseway.com",
+            "ORG"
+        ],
+        [
+            "Windows",
+            "PRODUCT"
+        ],
+        [
+            "15,000",
+            "CARDINAL"
+        ],
+        [
+            "ODM",
+            "ORG"
+        ],
+        [
+            "five hundred and twenty",
+            "CARDINAL"
+        ],
+        [
+            "a few years",
+            "DATE"
+        ],
+        [
+            "10",
+            "CARDINAL"
+        ],
+        [
+            "AMD",
+            "ORG"
+        ],
+        [
+            "Nvidia",
+            "ORG"
+        ],
+        [
+            "500",
+            "CARDINAL"
+        ],
+        [
+            "a thousand",
+            "CARDINAL"
+        ],
+        [
+            "IRI",
+            "ORG"
+        ],
+        [
+            "WANic 3",
+            "EVENT"
+        ],
+        [
+            "36",
+            "CARDINAL"
+        ],
+        [
+            "Starlink",
+            "GPE"
+        ],
+        [
+            "Dell",
+            "ORG"
+        ],
+        [
+            "today",
+            "DATE"
+        ],
+        [
+            "SOT",
+            "PERSON"
+        ],
+        [
+            "280 watt",
+            "QUANTITY"
+        ],
+        [
+            "Torx",
+            "PRODUCT"
+        ],
+        [
+            "HP",
+            "ORG"
+        ],
+        [
+            "the Badger Den",
+            "PERSON"
+        ],
+        [
+            "LDT",
+            "ORG"
+        ],
+        [
+            "280",
+            "CARDINAL"
+        ],
+        [
+            "WANic 3",
+            "LAW"
+        ],
+        [
+            "a hundred thousand",
+            "CARDINAL"
+        ],
+        [
+            "Watts",
+            "LOC"
+        ],
+        [
+            "Bada",
+            "PERSON"
+        ],
+        [
+            "7763",
+            "CARDINAL"
+        ],
+        [
+            "8,000",
+            "MONEY"
+        ],
+        [
+            "128",
+            "CARDINAL"
+        ],
+        [
+            "Pulseway More",
+            "ORG"
+        ],
+        [
+            "eighty-five days",
+            "DATE"
+        ],
+        [
+            "first",
+            "ORDINAL"
+        ],
+        [
+            "AMD",
+            "PRODUCT"
+        ],
+        [
+            "PCIE",
+            "ORG"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "5%",
+            "PERCENT"
+        ],
+        [
+            "GPU",
+            "ORG"
+        ],
+        [
+            "12 volt",
+            "QUANTITY"
+        ],
+        [
+            "Cinebench",
+            "ORG"
+        ],
+        [
+            "CPU",
+            "ORG"
+        ],
+        [
+            "three and a half inch",
+            "QUANTITY"
+        ],
+        [
+            "32",
+            "CARDINAL"
+        ],
+        [
+            "Jake",
+            "PERSON"
+        ],
+        [
+            "three and a half",
+            "DATE"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "PNY",
+            "ORG"
+        ],
+        [
+            "WANic",
+            "ORG"
+        ],
+        [
+            "EVGA",
+            "ORG"
+        ],
+        [
+            "Oof",
+            "PERSON"
+        ],
+        [
+            "PCA",
+            "ORG"
+        ],
+        [
+            "Ram",
+            "PERSON"
+        ],
+        [
+            "512",
+            "CARDINAL"
+        ],
+        [
+            "Quanto",
+            "ORG"
+        ],
+        [
+            "25",
+            "CARDINAL"
+        ],
+        [
+            "Daytona",
+            "PRODUCT"
+        ],
+        [
+            "half",
+            "CARDINAL"
+        ],
+        [
+            "Milan",
+            "ORG"
+        ],
+        [
+            "three",
+            "CARDINAL"
+        ],
+        [
+            "a hundred",
+            "CARDINAL"
+        ],
+        [
+            "Wendell",
+            "PERSON"
+        ],
+        [
+            "Windows",
+            "ORG"
+        ],
+        [
+            "64",
+            "CARDINAL"
+        ],
+        [
+            "micron 3,200",
+            "CARDINAL"
+        ],
+        [
+            "PowerShell",
+            "ORG"
+        ],
+        [
+            "2.45 gigahertz",
+            "QUANTITY"
+        ],
+        [
+            "Seventy two degrees",
+            "QUANTITY"
+        ],
+        [
+            "Epic",
+            "PERSON"
+        ],
+        [
+            "Four",
+            "CARDINAL"
+        ],
+        [
+            "Ten percent",
+            "PERCENT"
+        ],
+        [
+            "0%",
+            "PERCENT"
+        ],
+        [
+            "Pulseway",
+            "ORG"
+        ],
+        [
+            "Dell-esk",
+            "ORG"
+        ],
+        [
+            "fed",
+            "ORG"
+        ],
+        [
+            "about half",
+            "CARDINAL"
+        ],
+        [
+            "3.5 gigahertz",
+            "QUANTITY"
+        ],
+        [
+            "SEDA",
+            "ORG"
+        ]
+    ]
+}

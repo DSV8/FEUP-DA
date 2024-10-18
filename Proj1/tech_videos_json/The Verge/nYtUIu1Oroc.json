@@ -1,0 +1,113 @@
+{
+    "video_id": "nYtUIu1Oroc",
+    "title": "Apple just turned on some new Siri commands for the HomePod Mini #shorts",
+    "channel": "The Verge",
+    "channel_id": "UCddiUEpeqJcYeBxX1IVBKvQ",
+    "subscriber_count": 3390000,
+    "upload_date": "2023-01-31T18:35:06Z",
+    "video_url": "https://www.youtube.com/watch?v=nYtUIu1Oroc",
+    "category": "Science & Technology",
+    "tags": [
+        "homepod",
+        "homepod mini",
+        "siri",
+        "apple homepod",
+        "homepod 2023",
+        "apple",
+        "smart home",
+        "tech"
+    ],
+    "views": 60596,
+    "likes": 1700,
+    "comments_count": 22,
+    "description": "New feature alert! Did you know Apple’s HomePod Mini had a hidden temperature and humidity sensor inside? Well, Apple just turned it on and now the smart speaker can now tell you the temperature and humidity in your room! It can also help you find your friends without having to open an app, and even create smart home automations just with a few words.\n\nSubscribe: http://goo.gl/G5RXGs\nLike The Verge on Facebook: https://goo.gl/2P1aGc\nFollow on Twitter: https://goo.gl/XTWX61\nFollow on Instagram: https://goo.gl/7ZeLvX\n\nThe Vergecast Podcast: https://pod.link/430333725\nDecoder with Nilay Patel: http://apple.co/3v29nDc \nMore about our podcasts: https://www.theverge.com/podcasts\n\nRead More: http://www.theverge.com\nCommunity guidelines: http://bit.ly/2D0hlAv\nWallpapers from The Verge: https://bit.ly/2xQXYJr",
+    "description_links": [
+        "http://goo.gl/G5RXGs",
+        "https://goo.gl/2P1aGc",
+        "https://goo.gl/XTWX61",
+        "https://goo.gl/7ZeLvX",
+        "https://pod.link/430333725",
+        "http://apple.co/3v29nDc",
+        "https://www.theverge.com/podcasts",
+        "http://www.theverge.com",
+        "http://bit.ly/2D0hlAv",
+        "https://bit.ly/2xQXYJr"
+    ],
+    "transcript": "Hey, Siri. What's the temperature in here? It's 66 degrees Fahrenheit in the office. What's the humidity in the office? Humidity in the office is high at 58%. Close the dining room shades at 7 p.m. every day. On it. I set the dining room shades to close at 7 p.m. starting this evening. Where is Owen? Owen Tuohy is about one and a half miles away. Where is my backpack? Backpack was last seen 6 minutes ago about 10 miles away. Near 29405 in North Charleston.",
+    "transcript_keywords": [
+        "Siri",
+        "Hey",
+        "office",
+        "degrees Fahrenheit",
+        "dining room shades",
+        "dining room",
+        "room shades",
+        "North Charleston",
+        "Owen",
+        "humidity",
+        "dining",
+        "room",
+        "shades",
+        "Owen Tuohy",
+        "Fahrenheit",
+        "miles",
+        "Close",
+        "backpack",
+        "Charleston",
+        "Tuohy"
+    ],
+    "transcript_entities": [
+        [
+            "7 p.m.",
+            "TIME"
+        ],
+        [
+            "about one and a half miles",
+            "CARDINAL"
+        ],
+        [
+            "6 minutes ago",
+            "TIME"
+        ],
+        [
+            "North Charleston",
+            "LOC"
+        ],
+        [
+            "Siri",
+            "PERSON"
+        ],
+        [
+            "29405",
+            "DATE"
+        ],
+        [
+            "Owen",
+            "PERSON"
+        ],
+        [
+            "58%",
+            "PERCENT"
+        ],
+        [
+            "Owen Tuohy",
+            "PERSON"
+        ],
+        [
+            "66 degrees Fahrenheit",
+            "QUANTITY"
+        ],
+        [
+            "about 10 miles",
+            "QUANTITY"
+        ],
+        [
+            "Backpack",
+            "PERSON"
+        ],
+        [
+            "this evening",
+            "TIME"
+        ]
+    ]
+}

@@ -1,0 +1,172 @@
+{
+    "video_id": "YdUgHxxVZcU",
+    "title": "Water Cooling INSIDE A CPU",
+    "channel": "Techquickie",
+    "channel_id": "UC0vBXGSyV14uvJ4hECDOl0Q",
+    "subscriber_count": 4300000,
+    "upload_date": "2020-11-20T18:04:59Z",
+    "video_url": "https://www.youtube.com/watch?v=YdUgHxxVZcU",
+    "category": "Science & Technology",
+    "tags": [
+        "matioli",
+        "cpu",
+        "water",
+        "cooling",
+        "liquid",
+        "thermals",
+        "microchannels",
+        "tdp",
+        "chip",
+        "waterblock"
+    ],
+    "views": 627023,
+    "likes": 35743,
+    "comments_count": 1847,
+    "description": "Learn through problem solving, and the first 200 people can save 20% today on Brilliant at https://brilliant.org/Techquickie/\n\nCheck out the POWERlab at Ecole Polytechnique Fédérale de Lausanne, who performed the research featured in this video: https://www.epfl.ch/labs/powerlab/\n\nLearn about a new in-chip water cooling method that might make its way into processors sooner than you think!\n\nLeave a reply with your requests for future episodes, or tweet them here: https://twitter.com/jmart604\n\n►GET MERCH: http://www.LTTStore.com/\n►SUPPORT US ON FLOATPLANE: https://www.floatplane.com/  \n►LTX EXPO: https://www.ltxexpo.com/   \n\nAFFILIATES & REFERRALS\n---------------------------------------------------\n►Affiliates, Sponsors & Referrals: https://lmg.gg/sponsors\n►Private Internet Access VPN: https://lmg.gg/pialinus2\n►MK Keyboards: https://lmg.gg/LyLtl\n►Nerd or Die Stream Overlays: https://lmg.gg/avLlO\n►NEEDforSEAT Gaming Chairs: https://lmg.gg/DJQYb\n►Displate Metal Prints: https://lmg.gg/displateltt\n►Epic Games Store (LINUSMEDIAGROUP): https://lmg.gg/kRTpY\n►Official Game Store: https://www.nexus.gg/ltt\n►Amazon Prime: https://lmg.gg/8KV1v\n►Audible Free Trial: https://lmg.gg/8242J\n►Our Gear on Amazon: https://geni.us/OhmF\n \nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTwitch: https://www.twitch.tv/linustech\n\nFOLLOW OUR OTHER CHANNELS\n---------------------------------------------------  \nLinus Tech Tips: https://lmg.gg/linustechtipsyt\nTechLinked: https://lmg.gg/techlinkedyt\nShortCircuit: https://lmg.gg/shortcircuityt\n\nLMG Clips: https://lmg.gg/lmgclipsyt\nChannel Super Fun: https://lmg.gg/channelsuperfunyt\nCarpool Critics: https://lmg.gg/carpoolcriticsyt",
+    "description_links": [
+        "https://brilliant.org/Techquickie/",
+        "https://www.epfl.ch/labs/powerlab/",
+        "https://twitter.com/jmart604",
+        "http://www.LTTStore.com/",
+        "https://www.floatplane.com/",
+        "https://www.ltxexpo.com/",
+        "https://lmg.gg/sponsors",
+        "https://lmg.gg/pialinus2",
+        "https://lmg.gg/LyLtl",
+        "https://lmg.gg/avLlO",
+        "https://lmg.gg/DJQYb",
+        "https://lmg.gg/displateltt",
+        "https://lmg.gg/kRTpY",
+        "https://www.nexus.gg/ltt",
+        "https://lmg.gg/8KV1v",
+        "https://lmg.gg/8242J",
+        "https://geni.us/OhmF",
+        "https://twitter.com/linustech",
+        "http://www.facebook.com/LinusTech",
+        "https://www.instagram.com/linustech",
+        "https://www.twitch.tv/linustech",
+        "https://lmg.gg/linustechtipsyt",
+        "https://lmg.gg/techlinkedyt",
+        "https://lmg.gg/shortcircuityt",
+        "https://lmg.gg/lmgclipsyt",
+        "https://lmg.gg/channelsuperfunyt",
+        "https://lmg.gg/carpoolcriticsyt"
+    ],
+    "transcript": "- Behind me is a PC with an all-in-one closed loop cooler to keep the CPU from overheating. And unless you're tryna perform an extreme overclock, it's a pretty good solution. But, even with the best cooler on the market your CPU will still be quite warm. And you know, what? Why do we need water blocks at all? I mean, look at this processor. All of this space inside that black square is dedicated to an integrated heat spreader. So, would it be possible to instead build water cooling right into the die itself? As it turns out? The answer is yes. And to find out more, we spoke to Elison Matioli, a Professor of Electrical Engineering at the Swiss Federal Institute of Technology, in Lausanne, where he and his team recently developed an all new in-chip cooling solution. We'd like to give him a big thank you for taking the time to talk with us. So a big part of their approach was to look at the electronics, and the thermal management, as a single problem rather than the paradigm that we're more used to where, one company works on making chips, and another one works on making heat sinks or water blocks. Instead, the idea was to design a chip in concert with an integrated liquid cooling solution so that you would already know where the hotspots were. To demonstrate this idea, they used a device that generates a lot of heat. In this case, a power converter, and then etched water micro channels into a layer directly below the gallium nitride chip that handled the power conversion, with small capillaries below hotspots, and larger channels operating as inflow and outflow pipes. The small channels adjacent to the warmer areas of the chip provided lots of surface area for heat, making thermal dissipation very efficient compared to traditional solutions, involving a separate heat spreader, heat sink and thermal paste. Remember guys, you lose a lot of efficiency with each step. The chip only got up to 60 degrees Celsius compared to the blistering 250 degrees that we would have seen without cooling. In fact, their solution ended up being able to extract 1.7 kilowatts per square centimeter, using only half a watt of pumping power. Conveniently, a square centimeter is well, roughly the same size as a modern processor die. And even high-end processors have TDPs in the neighborhood of just 125 to 250 Watts. So with a solution this efficient, you could cool a chip down to near room temperature, especially as the process would work just as well with more familiar Silicon processors. I mean, the amount of heat that a typical chip puts out, is a whole order of magnitude less than what in-chip cooling could handle. But, hold on a second. Is this some kind of pipe dream that's just never gonna leave the laboratory like DNA storage? Unless it does, eventually. Or could we actually see this in our desktop rigs in the near future? Well, it turns out it would actually be fairly trivial for a big chip maker to replicate this microchannel process in a standard clean room. And the research team in Switzerland has already had a number of companies approach them about using this technology in the coming years. Now, the most obvious benefit will be for our server farms and data centers, where huge amounts of money are already being spent to keep energy costs low and well, processor temperatures lower. However, there's no reason at all that we couldn't see it in our home gaming computer at some point, which could allow for significant increases in overclocking for enthusiasts, or, maybe even better gaming on mobile devices or small form factor PCs. Since this in-chip solution doesn't need nearly as much liquid to function correctly as a traditional water cooling loop. Understandably, the lab couldn't tell us much about exactly which companies were inquiring about in-chip cooling. But, that shouldn't stop you, or us, from dreaming about the possibilities of having a water-cooled smartwatch one day. Why not, right? And why not check out our sponsor, Brilliant. Brilliant is the place to go to learn something new. It's a website and app that makes learning accessible and fun. Their approach is based on problem solving and active learning. And it's all about seeing the concepts and interacting with them, and then answering questions that get you to think. Their courses are laid out like a story and broken down into pieces that you can tackle them a little bit at a time and there's no tests or grades or pressure like that. Just pick a course based on what you're interested in and get started. If you make a mistake, just check out the explanations to find out more. You can learn at your own pace and there's something for everybody. Whether you wanna brush up on the basics of algebra, learn programming or learn about cutting edge topics like neural networks. There's even some advanced stuff like differential equations, if you're into that sort of thing. The first 200 of you to head to Brilliant.org/Techquickie, we're gonna have that link down below, are gonna get 20% off an annual premium subscription. So don't wait. Thanks for watching guys. Like, dislike, check out our other videos, leave a comment if you have a suggestion for a future fast as possible, and don't forget to subscribe. Because if you do, we're gonna keep changing our sets every time. What do you guys think of this? Do you like it better than the green screen? We would love to hear your feedback.",
+    "transcript_keywords": [
+        "allinone closed loop",
+        "allinone closed",
+        "closed loop cooler",
+        "chip",
+        "heat",
+        "cooling",
+        "solution",
+        "CPU from overheating",
+        "inchip cooling",
+        "CPU",
+        "water",
+        "cooling solution",
+        "water cooling",
+        "Swiss Federal Institute",
+        "inchip cooling solution",
+        "inchip",
+        "heat spreader",
+        "closed loop",
+        "pretty good solution",
+        "learn"
+    ],
+    "transcript_entities": [
+        [
+            "Elison Matioli",
+            "PERSON"
+        ],
+        [
+            "Electrical Engineering",
+            "ORG"
+        ],
+        [
+            "only half a watt",
+            "QUANTITY"
+        ],
+        [
+            "60 degrees Celsius",
+            "QUANTITY"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "Brilliant.org/Techquickie",
+            "PERSON"
+        ],
+        [
+            "20%",
+            "PERCENT"
+        ],
+        [
+            "1.7 kilowatts",
+            "QUANTITY"
+        ],
+        [
+            "just 125 to 250",
+            "CARDINAL"
+        ],
+        [
+            "second",
+            "ORDINAL"
+        ],
+        [
+            "Watts",
+            "LOC"
+        ],
+        [
+            "Lausanne",
+            "GPE"
+        ],
+        [
+            "200",
+            "CARDINAL"
+        ],
+        [
+            "a square centimeter",
+            "QUANTITY"
+        ],
+        [
+            "annual",
+            "DATE"
+        ],
+        [
+            "first",
+            "ORDINAL"
+        ],
+        [
+            "the coming years",
+            "DATE"
+        ],
+        [
+            "Silicon",
+            "NORP"
+        ],
+        [
+            "250 degrees",
+            "QUANTITY"
+        ],
+        [
+            "Switzerland",
+            "GPE"
+        ],
+        [
+            "one day",
+            "DATE"
+        ],
+        [
+            "CPU",
+            "ORG"
+        ],
+        [
+            "the Swiss Federal Institute of Technology",
+            "ORG"
+        ]
+    ]
+}

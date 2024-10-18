@@ -1,0 +1,186 @@
+{
+    "video_id": "ZBzIeJFdN-8",
+    "title": "How Much Space Do You REALLY Have?",
+    "channel": "Techquickie",
+    "channel_id": "UC0vBXGSyV14uvJ4hECDOl0Q",
+    "subscriber_count": 4300000,
+    "upload_date": "2021-01-19T19:01:17Z",
+    "video_url": "https://www.youtube.com/watch?v=ZBzIeJFdN-8",
+    "category": "Science & Technology",
+    "tags": [
+        "gigabyte",
+        "gibibyte",
+        "storage",
+        "units",
+        "space",
+        "pc",
+        "hard drive",
+        "ssd",
+        "binary"
+    ],
+    "views": 312832,
+    "likes": 20311,
+    "comments_count": 922,
+    "description": "Check out the DROP THX Panda Wireless headphones today at https://dro.ps/tq-pan-jan21\n\nWhat's the difference between a gigabyte and a gibibyte?\n\nLeave a reply with your requests for future episodes, or tweet them here: https://twitter.com/jmart604\n\n►GET MERCH: http://www.LTTStore.com/\n►SUPPORT US ON FLOATPLANE: https://www.floatplane.com/  \n►LTX EXPO: https://www.ltxexpo.com/   \n\nAFFILIATES & REFERRALS\n---------------------------------------------------\n►Affiliates, Sponsors & Referrals: https://lmg.gg/sponsors\n►Private Internet Access VPN: https://lmg.gg/pialinus2\n►MK Keyboards: https://lmg.gg/LyLtl\n►Nerd or Die Stream Overlays: https://lmg.gg/avLlO\n►NEEDforSEAT Gaming Chairs: https://lmg.gg/DJQYb\n►Displate Metal Prints: https://lmg.gg/displateltt\n►Epic Games Store (LINUSMEDIAGROUP): https://lmg.gg/kRTpY\n►Official Game Store: https://www.nexus.gg/ltt\n►Amazon Prime: https://lmg.gg/8KV1v\n►Audible Free Trial: https://lmg.gg/8242J\n►Our Gear on Amazon: https://geni.us/OhmF\n \nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTwitch: https://www.twitch.tv/linustech\n\nFOLLOW OUR OTHER CHANNELS\n---------------------------------------------------  \nLinus Tech Tips: https://lmg.gg/linustechtipsyt\nTechLinked: https://lmg.gg/techlinkedyt\nShortCircuit: https://lmg.gg/shortcircuityt\n\nLMG Clips: https://lmg.gg/lmgclipsyt\nChannel Super Fun: https://lmg.gg/channelsuperfunyt\nCarpool Critics: https://lmg.gg/carpoolcriticsyt",
+    "description_links": [
+        "https://dro.ps/tq-pan-jan21",
+        "https://twitter.com/jmart604",
+        "http://www.LTTStore.com/",
+        "https://www.floatplane.com/",
+        "https://www.ltxexpo.com/",
+        "https://lmg.gg/sponsors",
+        "https://lmg.gg/pialinus2",
+        "https://lmg.gg/LyLtl",
+        "https://lmg.gg/avLlO",
+        "https://lmg.gg/DJQYb",
+        "https://lmg.gg/displateltt",
+        "https://lmg.gg/kRTpY",
+        "https://www.nexus.gg/ltt",
+        "https://lmg.gg/8KV1v",
+        "https://lmg.gg/8242J",
+        "https://geni.us/OhmF",
+        "https://twitter.com/linustech",
+        "http://www.facebook.com/LinusTech",
+        "https://www.instagram.com/linustech",
+        "https://www.twitch.tv/linustech",
+        "https://lmg.gg/linustechtipsyt",
+        "https://lmg.gg/techlinkedyt",
+        "https://lmg.gg/shortcircuityt",
+        "https://lmg.gg/lmgclipsyt",
+        "https://lmg.gg/channelsuperfunyt",
+        "https://lmg.gg/carpoolcriticsyt"
+    ],
+    "transcript": "- How many gigabytes does your hard drive or SSD hold? Are you sure about that? We've already discussed how over provisioning and file system overhead often mean that the usable capacity of your drives is less than what's advertised. And you can check out this video to learn more, but it turns out there's another way that you can be easily fooled. The fact that the term gigabyte itself can be ambiguous. Many of us think of a gigabyte as exactly 1 billion bytes. However, it's a commonly accepted practice in the industry to instead use gigabyte to mean this many bytes. If you look closely, that's a difference of about 74 megabytes, which is not an insignificant gap. So why does the industry have to make things so complicated? To get the answers we have to look way back to the early days of modern computing. As early as the 1960s, binary addressing was already the standard for working memory or Ram. You see when a computer puts something into memory that data is assigned to her particular address, so the system can recall where it's stored. Binary addressing means that each memory address is expressed in binary digits. That is ones and zeros. So for example, if you have a 10 bit address, there are two to the 10th power or 1,024 possible addresses, not exactly 1,000. It therefore became convenient to refer to 1,024 bits as a kilobit or the same number of bytes as a kilobyte, even though those uses didn't strictly line up with the meaning of the kilo prefix as it's used in fields outside of computer science. We've also seen this at times with mass storage devices. During the 1980s when the IBM PC platform was becoming popular, the industry needed to decide on a standard sector size. And if you didn't know, a sector is the smallest amount of data that can be stored at one time on a drive. The powers that be settled on making 512 bytes the default size for one sector. And if you put two sectors together, you have 1,024 bytes, which matched the binary addressing definition of kilobyte we discussed earlier. Even today when we're using much larger drive sizes sectors are still defined by sizes and powers of two, with the sector today usually coming in at 4,096 bytes. However, the storage industry today typically uses the more common exactly 1 billion bytes definition of gigabyte. Since this definition allows drive makers to put larger capacities on their packaging and claim slightly faster speeds on their spec sheets. But wouldn't it be nice to know exactly what you're getting when you go out and buy a drive or memory card? Thankfully, more precise terms were published in 1999, with words like mebibyte and gibibyte that unambiguously refer to units that are powers of two, with the BI or bi in the middle, standing for binary. If you wanna write that out as abbreviation, sticking a lowercase i between the capital G and the capital B is the correct way to do it. However, this obviously hasn't solved the problem completely. The more common words like megabyte and gigabyte can refer to data units in either system, and the words with Bi or b in the middle, having gained a whole lot of traction outside of tech circles. In fact, there have even been lawsuits over how these terms are used, with customers claiming that they got less storage than they paid for in certain circumstances. And the storage continues to grow and grow. This could become a more significant issue. For example, there's about a 125 terabyte difference between a petabyte and a pebibyte, but maybe we'll just constantly be storing such large files on our devices that these differences won't matter very much. Personally I'm looking forward to sharing food photos on Instagram in 16K with encoded smell data. Thanks to the Drop THX Panda wireless headphones for sponsoring to this video. These are the world's most distortion free wireless headphones. Get closer to music than ever before with the THX AAA amp technology, LDX support and a community centered design. You get 30 hours of wireless life, home assistant capability, and even a detachable gaming mic. Click the link below to find out more. So thanks for watching guys. If you liked this video, give us a like. Hey, hit subscribe, why not? And be sure to hit us up in the comments section with your suggestions or topics that we should cover in the future.",
+    "transcript_keywords": [
+        "SSD hold",
+        "bytes",
+        "gigabyte",
+        "SSD",
+        "drive or SSD",
+        "drive",
+        "binary",
+        "hard drive",
+        "binary addressing",
+        "sector",
+        "industry",
+        "memory",
+        "storage",
+        "data",
+        "drive sizes sectors",
+        "billion bytes",
+        "powers",
+        "addressing",
+        "system",
+        "address"
+    ],
+    "transcript_entities": [
+        [
+            "the 1960s",
+            "DATE"
+        ],
+        [
+            "Panda",
+            "ORG"
+        ],
+        [
+            "10th",
+            "ORDINAL"
+        ],
+        [
+            "1,024",
+            "CARDINAL"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "IBM",
+            "ORG"
+        ],
+        [
+            "1,000",
+            "CARDINAL"
+        ],
+        [
+            "30 hours",
+            "TIME"
+        ],
+        [
+            "a gigabyte",
+            "QUANTITY"
+        ],
+        [
+            "125 terabyte",
+            "QUANTITY"
+        ],
+        [
+            "Bi",
+            "PERSON"
+        ],
+        [
+            "the 1980s",
+            "DATE"
+        ],
+        [
+            "about 74 megabytes",
+            "QUANTITY"
+        ],
+        [
+            "Instagram",
+            "ORG"
+        ],
+        [
+            "LDX",
+            "ORG"
+        ],
+        [
+            "the early days",
+            "DATE"
+        ],
+        [
+            "1999",
+            "DATE"
+        ],
+        [
+            "10",
+            "CARDINAL"
+        ],
+        [
+            "BI",
+            "ORG"
+        ],
+        [
+            "4,096",
+            "CARDINAL"
+        ],
+        [
+            "16",
+            "CARDINAL"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "Ram",
+            "PERSON"
+        ],
+        [
+            "zeros",
+            "CARDINAL"
+        ],
+        [
+            "512",
+            "CARDINAL"
+        ],
+        [
+            "today",
+            "DATE"
+        ],
+        [
+            "SSD",
+            "ORG"
+        ]
+    ]
+}

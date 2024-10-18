@@ -1,0 +1,400 @@
+{
+    "video_id": "rzj8ssvHVMM",
+    "title": "It's Over, Apple. The EU Won.",
+    "channel": "TechLinked",
+    "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
+    "subscriber_count": 1900000,
+    "upload_date": "2022-06-09T01:02:35Z",
+    "video_url": "https://www.youtube.com/watch?v=rzj8ssvHVMM",
+    "category": "Science & Technology",
+    "tags": [
+        "Linus",
+        "LinusTechTips",
+        "tech news",
+        "Riley Murdock",
+        "tech",
+        "news",
+        "Riley",
+        "Apple",
+        "iPhone",
+        "USB-C iPHone",
+        "USBC",
+        "USB-C",
+        "EU",
+        "European Union",
+        "European Parliament",
+        "Radio Equipment Directive",
+        "Apple USB-C",
+        "2024",
+        "iPhone 15",
+        "iPhone 14"
+    ],
+    "views": 909999,
+    "likes": 48824,
+    "comments_count": 2074,
+    "description": "Try Vultr today with an exclusive 30-day $150 code for signup at: https://getvultr.com/techlinked\n\n► LISTEN TO THE TECH NEWS: https://lmg.gg/TechLinkedPodcast\n►GET MERCH: http://www.LTTStore.com/\n►SUPPORT US ON FLOATPLANE: https://www.floatplane.com/\n►LTX EXPO: https://www.ltxexpo.com/\n\nNEWS SOURCES: https://lmg.gg/Sx78T\n---------------------------------------------------\nTimestamps:\n0:00 Avert your eyes\n0:08 EU agrees on USB-C mandate\n1:16 Intel Arc GPU benchmark leaks\n2:06 macOS Rosetta in Linux VMs\n3:02 Vultr\n3:36 QUICK BITS\n3:42 Twitter to give Musk \"firehose\"\n4:15 F-150 Lightning can charge Teslas\n4:50 Crayta launches on Facebook Gaming\n5:28 AI chatbot trained on 4chan\n6:01 Taco Bell Defy\n\nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: http://twitter.com/TechLinkedYT\nInstagram: http://instagram.com/TechLinkedYT\nFacebook: http://facebook.com/TechLinked",
+    "description_links": [
+        "https://getvultr.com/techlinked",
+        "https://lmg.gg/TechLinkedPodcast",
+        "http://www.LTTStore.com/",
+        "https://www.floatplane.com/",
+        "https://www.ltxexpo.com/",
+        "https://lmg.gg/Sx78T",
+        "http://twitter.com/TechLinkedYT",
+        "http://instagram.com/TechLinkedYT",
+        "http://facebook.com/TechLinked"
+    ],
+    "transcript": "- The best thing about tech news is I could make it up, and you guys would have absolutely no idea. Have you even seen Mark Zuckerberg in person? Trust me, you don't want to. The parliament of the European Union has finally officially agreed to mandate USB-C charging ports on all phones, tablets, and cameras sold in the EU by 2024, after years of proposals and whiny comments from Apple, who is perfectly happy to slap USB-C ports on absolutely everything, except the iPhone. They even put two of them in the new MacBook air charger. - [Man] Yeah, what the-- - They had, they had spares. - [Man] Give me one of those. - It's unlikely this agreement is going to catch Apple off guard though, as recent rumors have indicated the company was already working on USB-C equipped versions of future iPhones and AirPods. Although, there are other rumors pointing towards Apple opting instead for an iPhone with no ports at all, rather than let themselves be restricted to only thinking the way that other people think. They like to think different. And no, by the way, apple won't be able to just release a dongle for the sake of compliance, like they did last time the EU made a fuss about common cell phone chargers back in 2010. You will give us a USB C iPhone, Apple, and you will claim that it's the best iPhone ever. And it will be true, for once. Now, you'd be forgiven for forgetting about Intel's Arc GPU, since they're taking zone freaking long to roll out. So, here's some leaked benchmarks to keep them in your thoughts. Results from 3DMark Time Spy show Intel's 8730M, one of the higher tier laptop chips, but not the flagship 8770M, outperforming NVIDIA's RTX 3070M and AMD's RX 6800S, which is great news, especially for people who like new products that do better than the old ones. - [Man] Oh, I like to shake it up. - You will wanna add a dash of salt to the hype stacked on your plate based on other real world gaming benchmarks though, because they put the A730M's performance more in line with an RTX 3050 or 3060. Honestly, at this point Intel, just give us the GPUs. We'll still love you if they suck. - [Man] Wait, chill? - And the latest version of macOS, Ventura, will make Apples killer Rosetta emulator available inside Linux virtual machines. Meaning that Linux apps written for Intel or AMD processors, will be able to run on M1 and M2 powered macs. This is big news for developers who've been waiting to run specific apps for work. But it could also be big news for x86 app emulation on non-Apple arm processors, like those built by Qualcomm or Media Tech. - [Man] Or Google, now. - A software engineer, going by Longhorn, on Twitter, has discovered that Rosetta could theoretically work on those chips. Although Hector Martin, one of the devs behind Asahi Linux, has pointed out that doing so would be, quote, not legal. I mean, so are Hackintoshs, and Apple hasn't sent its secret police force to batter down the doors of people behind that project. So who knows, maybe we need to call the EU about this. - [Man] And use their secret police force. - Now it's time for bit quits, brought to you by Vultr, provider of high performance cloud servers, bare metal storage and managed Kubernetes. You can easily deploy your preferred OS through 12 pre-selected options with Vultr, and even bring your own ISO. And, with 25 server locations worldwide, you'll enjoy low latency wherever your users are. Plus, the new Vultr Kubernetes engine tackles the hard work for you, so you can operate and scale with confidence. So try Vultr today, and receive an exclusive 30 day $150 code for new signups at the link down below. When you're ordering at a restaurant, always ask the waiter for the bit quits. Trust me, they have them. - [Man] There's a secret menu. - Twitter must be fed up with Elon's mind games by now, so they're planning to give Musk access to the platform's so called Firehose API, which would give the billionaire the ability to see every tweet ever posted in real time. - [Man] That's what they called me in high school. - It's unclear how Elon will respond, given that his good faith ambitions to buy Twitter have seemed less and less good, or faithy. But at the very least, he may appreciate the ability to witness memes directly flowing from the collective consciousness in, on mass, in real time. - [Man] Like laminar flow, - It's beautiful. New owners of the F-150 Lightning have shared photos of an interesting accessory that comes standard on the EV. An adapter that allows them to charge Tesla vehicles, which use proprietary connectors. So not only did Ford beat Tesla to market with an electric truck, they also equipped their electric truck to act as a AAA service for people who are driving cars made by the rival company. I mean, any self-respecting Tesla driver would undoubtedly refuse, - [Man] Of course. but hey, at least the F-150 Lightning owner can say, well, I offered. And Crayta, the ROBLOX meets Fortnite game creator game that initially launched on Stadia before coming to the Epic Games store, has now launched on Facebook's cloud gaming platform, of all places. - [Man] Yeah. - Facebook has a cloud gaming platform? - [Man] Yeah, I know right. - Oh, okay. Well, that actually makes a lot of sense, says the script, given that Meta bought Crayta's developer's unit two games a year ago. Meta is probably hoping that this free-to-play title that can be played within a browser, will give them a leg up in their Metaverse. I get it, leg. That's funny, leg up, 'cause it's cloud gaming. Ah! Leg. - [Man] Oh, leg up? - And YouTuber Yannic Kilcher, posted a video this week detailing his exploits training an AI chat bot with three years worth of 4Chan posts. If you guessed that the bot turned out to be racist and generally unpleasant to talk to, you'd be right. It is unclear what Kilcher was hoping to gain by repeating Microsoft's disastrous Tay chatbot experiment, other than to remind us that humans can, and often do, totally suck. - [Man] No offense to 4Chan. - You know what doesn't suck though, Taco Bell's new fantastically dystopian defy restaurant, if you can even call it a restaurant. It basically looks like a border control booth, but instead of receiving suspicious stares, you receive a Gordita and a Baja Blast, which descends to your vehicle in a tube from the kitchen above. Okay. Are you just taking the piss at this point? Because it really does sound made up. - [Man] You can order stuff, you can order whatever you want. - At this point, you're gonna wanna head straight home, because you'll soon have something else to put into a different tube. Hey, thanks for traveling along the series of tubes to hang out with us for this episode. It's now over, come back on Friday for more tech news. Thursday the pipes get a little clogged, so. - [Man] Yeah, you gotta use a stick. It's gonna be, it's gonna be Friday. Suction stick.",
+    "transcript_keywords": [
+        "Apple",
+        "Mark Zuckerberg",
+        "Give",
+        "Intel",
+        "Intel Arc GPU",
+        "USBC",
+        "time",
+        "Vultr",
+        "USBC charging ports",
+        "slap USBC ports",
+        "iPhone",
+        "Zuckerberg in person",
+        "leg",
+        "European Union",
+        "Apples killer Rosetta",
+        "USBC ports",
+        "cloud gaming",
+        "Yeah",
+        "Linux",
+        "people"
+    ],
+    "transcript_entities": [
+        [
+            "Tesla",
+            "ORG"
+        ],
+        [
+            "USB",
+            "ORG"
+        ],
+        [
+            "NVIDIA",
+            "ORG"
+        ],
+        [
+            "EU",
+            "ORG"
+        ],
+        [
+            "Google",
+            "ORG"
+        ],
+        [
+            "Crayta",
+            "ORG"
+        ],
+        [
+            "Vultr",
+            "ORG"
+        ],
+        [
+            "Kilcher",
+            "PERSON"
+        ],
+        [
+            "the European Union",
+            "ORG"
+        ],
+        [
+            "MacBook",
+            "ORG"
+        ],
+        [
+            "a Baja Blast",
+            "LOC"
+        ],
+        [
+            "Twitter",
+            "ORG"
+        ],
+        [
+            "Friday",
+            "DATE"
+        ],
+        [
+            "AAA",
+            "ORG"
+        ],
+        [
+            "AMD",
+            "ORG"
+        ],
+        [
+            "iPhones",
+            "NORP"
+        ],
+        [
+            "Hector Martin",
+            "PERSON"
+        ],
+        [
+            "Fortnite",
+            "ORG"
+        ],
+        [
+            "Asahi Linux",
+            "ORG"
+        ],
+        [
+            "today",
+            "DATE"
+        ],
+        [
+            "Gordita",
+            "ORG"
+        ],
+        [
+            "8770M",
+            "PRODUCT"
+        ],
+        [
+            "Linux",
+            "ORG"
+        ],
+        [
+            "Vultr Kubernetes",
+            "ORG"
+        ],
+        [
+            "Taco Bell's",
+            "ORG"
+        ],
+        [
+            "Linux",
+            "GPE"
+        ],
+        [
+            "Hackintoshs",
+            "PERSON"
+        ],
+        [
+            "M1",
+            "PRODUCT"
+        ],
+        [
+            "AMD",
+            "PRODUCT"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "Rosetta",
+            "NORP"
+        ],
+        [
+            "this week",
+            "DATE"
+        ],
+        [
+            "6800S",
+            "CARDINAL"
+        ],
+        [
+            "3050",
+            "CARDINAL"
+        ],
+        [
+            "3060",
+            "CARDINAL"
+        ],
+        [
+            "Time Spy",
+            "ORG"
+        ],
+        [
+            "Media Tech",
+            "ORG"
+        ],
+        [
+            "three years",
+            "DATE"
+        ],
+        [
+            "Mark Zuckerberg",
+            "PERSON"
+        ],
+        [
+            "2024",
+            "DATE"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "Thursday",
+            "DATE"
+        ],
+        [
+            "iPhone",
+            "ORG"
+        ],
+        [
+            "ROBLOX",
+            "ORG"
+        ],
+        [
+            "$150 code",
+            "MONEY"
+        ],
+        [
+            "30 day",
+            "DATE"
+        ],
+        [
+            "the Epic Games",
+            "EVENT"
+        ],
+        [
+            "Microsoft",
+            "ORG"
+        ],
+        [
+            "F-150 Lightning",
+            "PRODUCT"
+        ],
+        [
+            "Rosetta",
+            "PRODUCT"
+        ],
+        [
+            "12",
+            "CARDINAL"
+        ],
+        [
+            "macOS",
+            "ORG"
+        ],
+        [
+            "Ventura",
+            "GPE"
+        ],
+        [
+            "Apple",
+            "ORG"
+        ],
+        [
+            "25",
+            "CARDINAL"
+        ],
+        [
+            "AirPods",
+            "PRODUCT"
+        ],
+        [
+            "Firehose API",
+            "PERSON"
+        ],
+        [
+            "EV",
+            "ORG"
+        ],
+        [
+            "Stadia",
+            "ORG"
+        ],
+        [
+            "a year ago",
+            "DATE"
+        ],
+        [
+            "Kubernetes",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "ORG"
+        ],
+        [
+            "Qualcomm",
+            "ORG"
+        ],
+        [
+            "YouTuber Yannic Kilcher",
+            "PERSON"
+        ],
+        [
+            "Elon",
+            "ORG"
+        ],
+        [
+            "Longhorn",
+            "PRODUCT"
+        ],
+        [
+            "3DMark",
+            "CARDINAL"
+        ],
+        [
+            "Tay",
+            "PERSON"
+        ],
+        [
+            "macs",
+            "PRODUCT"
+        ],
+        [
+            "M2",
+            "NORP"
+        ],
+        [
+            "Ford",
+            "ORG"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "RTX 3070M",
+            "ORG"
+        ],
+        [
+            "the A730M's",
+            "ORG"
+        ],
+        [
+            "2010",
+            "DATE"
+        ],
+        [
+            "Facebook",
+            "ORG"
+        ],
+        [
+            "Apples",
+            "ORG"
+        ],
+        [
+            "non-Apple",
+            "ORG"
+        ],
+        [
+            "USB-C",
+            "ORG"
+        ],
+        [
+            "years",
+            "DATE"
+        ],
+        [
+            "Metaverse",
+            "GPE"
+        ],
+        [
+            "Meta",
+            "ORG"
+        ]
+    ]
+}

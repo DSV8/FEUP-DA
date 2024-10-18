@@ -1,0 +1,46 @@
+{
+    "video_id": "vi1mUy-nXFo",
+    "title": "5 Cool Inspect Element Tips",
+    "channel": "TechWiser",
+    "channel_id": "UCdp6GUwjKscp5ST4M4WgIpw",
+    "subscriber_count": 2200000,
+    "upload_date": "2016-08-20T19:57:29Z",
+    "video_url": "https://www.youtube.com/watch?v=vi1mUy-nXFo",
+    "category": "Science & Technology",
+    "tags": [
+        "tips tricks",
+        "how to",
+        "tutorial guide",
+        "Mrinal Saha",
+        "RTT",
+        "receivetipstricks",
+        "How to Temporarily Edit Any Webpage",
+        "Easily Reveal Hidden Passwords In Any Browser",
+        "inspect element chrome",
+        "how to use inspect element",
+        "inspect element password hack",
+        "inspect element download",
+        "inspect element hacking tricks"
+    ],
+    "views": 808405,
+    "likes": 14401,
+    "comments_count": 757,
+    "description": "Inspect element is an easy tool, to interact with the source code of any website. And in this video, we'll see 5 cool Inspect Element Hacks.\n\n[Video Content]\n\nDownload anything with Inspect element\nReveal Hidden Passwords In Web Browsers\nView 'locked' content on websites\nHow to Temporarily Edit Any Webpage\nUpdate Websites with Inspect Element Console\n\n\n[ Code for console]\n\nTo make any web page editable --\ndocument.body.contentEditable = true\n\nTo make bulk find and replace on any website\n\ndocument.getElementById('divID').innerHTML = \n document.getElementById('divID').innerHTML.replace(/before/g, \"after\");\n\n[Resource]\n\nI use Audio from YouTube audio library.\n\nCold Funk - Funkorama by Kevin MacLeod is licensed under a Creative Commons Attribution licence (https://creativecommons.org/licenses/...)\nSource: http://incompetech.com/music/royalty-...\nArtist: http://incompetech.com/\n\n[Contact Me]\n\nYou can reach me here\n\nWebsite: http://receivetipstricks.com/\nFacebook: https://www.facebook.com/ReceiveTips/\nInstagram: https://www.instagram.com/dxmrinal/\nTwitter:  https://twitter.com/ReceiveTips\nGoogle plus: https://plus.google.com/u/0/111437874...",
+    "description_links": [
+        "https://creativecommons.org/licenses/...)",
+        "http://incompetech.com/music/royalty-...",
+        "http://incompetech.com/",
+        "http://receivetipstricks.com/",
+        "https://www.facebook.com/ReceiveTips/",
+        "https://www.instagram.com/dxmrinal/",
+        "https://twitter.com/ReceiveTips",
+        "https://plus.google.com/u/0/111437874..."
+    ],
+    "transcript": "No manual transcript available",
+    "transcript_keywords": [
+        "manual transcript",
+        "manual",
+        "transcript"
+    ],
+    "transcript_entities": []
+}

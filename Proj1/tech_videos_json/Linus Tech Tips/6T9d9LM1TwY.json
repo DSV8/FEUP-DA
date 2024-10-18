@@ -1,0 +1,510 @@
+{
+    "video_id": "6T9d9LM1TwY",
+    "title": "Please Buy Intel GPUs. - Arc A750 & A770 Review",
+    "channel": "Linus Tech Tips",
+    "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+    "subscriber_count": 15900000,
+    "upload_date": "2022-10-05T13:00:07Z",
+    "video_url": "https://www.youtube.com/watch?v=6T9d9LM1TwY",
+    "category": "Science & Technology",
+    "tags": [
+        "Intel",
+        "A770",
+        "A750",
+        "Nvidia",
+        "RTX 3060",
+        "RTX 3050",
+        "AMD",
+        "Radeon",
+        "RX 6600",
+        "#DubbedWithAloud"
+    ],
+    "views": 3719793,
+    "likes": 124596,
+    "comments_count": 10092,
+    "description": "Learn more about NexiGo's family of webcams here: https://viraln.link/LTTxWebcams\n\nSave 10% and Free Worldwide Shipping at Ridge Wallet by using offer code LINUS at https://www.ridge.com/LINUS\n\nIntel's Arc Alchemist A770 and A750 GPUs are FINALLY launching and these are some surprisingly competitive cards, sometimes.\n\nBuy Intel Arc A770: https://geni.us/lAjE\n\nDiscuss on the forum: https://linustechtips.com/topic/1459237-please-buy-intel-gpus/\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 - Shill Hat\n1:14 - Ridge\n1:27 - LTT Intro\n1:35 - Intel's Original Target\n2:24 - DX12 Gaming Performance\n3:26 - DX11, DX9 Performance\n5:16 - Three Tier Pricing\n6:25 - The RX 6600 exists..\n7:30 - ReBAR\n8:15 - Arc's extra features\n11:12 - Linux support?\n11:42 - An appeal to you\n13:32 - NexiGo\n13:57 - Outro\n\nEnglish\nThis video has been dubbed into Spanish (United States) using an artificial voice via https://aloud.area120.google.com to increase accessibility. You can change the audio track language in the Settings menu.\n\nSpanish\nEste video ha sido doblado al español con voz artificial con https://aloud.area120.google.com para aumentar la accesibilidad. Puede cambiar el idioma de la pista de audio en el menú Configuración.",
+    "description_links": [
+        "https://viraln.link/LTTxWebcams",
+        "https://www.ridge.com/LINUS",
+        "https://geni.us/lAjE",
+        "https://linustechtips.com/topic/1459237-please-buy-intel-gpus/",
+        "https://lttstore.com",
+        "https://www.floatplane.com/ltt",
+        "https://lmg.gg/sponsors",
+        "https://lmg.gg/podcastgear",
+        "https://twitter.com/linustech",
+        "http://www.facebook.com/LinusTech",
+        "https://www.instagram.com/linustech",
+        "https://www.tiktok.com/@linustech",
+        "https://www.twitch.tv/linustech",
+        "https://www.youtube.com/watch?v=PKfxmFU3lWY",
+        "https://itunes.apple.com/us/album/supernova/id936805712",
+        "https://soundcloud.com/laszlomusic",
+        "https://www.youtube.com/watch?v=ngsGBSCDwcI",
+        "http://spoti.fi/UxWkUw",
+        "http://www.youtube.com/approachingnirvana",
+        "https://www.instagram.com/mbarek_abdel/",
+        "https://geni.us/PgGWp",
+        "https://geni.us/mj6pHk4",
+        "https://geni.us/Ps3XfE",
+        "https://aloud.area120.google.com",
+        "https://aloud.area120.google.com"
+    ],
+    "transcript": "- Allow me to put on my shill hat for a moment. Everyone else is gonna tell you what's wrong with Intel's Arc A700 GPUs. And, we're gonna need to talk about that too because it's a pretty sizable list. I mean, we've got the A770 losing to a card from almost 10 years ago in CS:GO? How embarrassing. But what's this? It beats and NVIDIA's 3060 in Fortnite. It absolutely murders the Radeon 6600 in Ray Trace games, and is available starting at just around its $289 msrp. Something I will never take for granted again. So it's with that in mind that I want to explore a different perspective. One where the benefits of competition may outweigh the risk of buying into a first generation product. That's right. It is time to get blue pilled with me folks. Or not that one. I meant like Intel Blue. Though I am pretty excited right now. Excited to tell you about our sponsor. - Ridge. Ridge Wallet has redefined the traditional wallet with its compact frame and R-F-I-D blocking plates. Because the bulge in your pants, shouldn't be from your wallet. Use offer code Linus to save 10% and get free worldwide shipping. (machine beeping) (upbeat music) - Intel's A750 and A770 GPUs are designed for gaming at either 1440p with medium details or 1080p Ultra. And they've got NVIDIA'S RTX 3060 directly in their crosshairs, or at least now they do. Their transistor count and power consumption are both more comparable to the RTX 3070 which would indicate that Intel fell well short of their original performance targets, and is now trying to make lemonade out of these lemons. But that's not our problem. And from a consumer standpoint, they kind of did. Because at $289, the A750 may just be the most silicon per dollar ever in a GPU. And there are situations where it really shows. Check out this performance in Direct X12 games. 1080p High has NVIDIA's 3060 taking nearly every game by a thin margin. But when the resolution gets cranked 1440p at medium details, it's Intel racking up small wins nearly across the board. And this is against a card that costs $50 to $100 more. Even looking closer, the Arc cards continue to impress. 5% and 1% lows are very comparable to the RTX 3060 which means you won't feel any extra hitching or stuttering in heavy firefights. And while I was concerned that Arc might fall flat on its face in a Horizon system, that wasn't the case at all. Oh, and as an extra bonus, Arc murders the more price comparable RTX 3050. Isn't competition great? This is the point in the video where Intel's employees and shareholders might wanna stop watching. Because we're about to look at some games that aren't Direct X12 or Vulcan. In Shadow of the Tomb Raider, Arc's performance falls to nearly half in DirectX 11. Ouch! And CS:GO, a DirectX 9 title where Arc feels like a totally different card every time you start it up. With the A750 beating the A770 sometimes, 1440p results being higher than 1080p results and, oh by the way, no matter which card you're looking at they get absolutely wrecked in performance by the 3050 flagship GPU from nine years ago. And probably a competitive Abacus user. I mean, what happened to crush Intel's performance in these older titles? Well in a nutshell, Arc isn't actually running DirectX 9 games in DirectX 9. Instead, they're using a DirectX 9 to DirectX 12 translation layer. This works because you can turn basically any DX9 command into a string of DX12 commands which is great for compatibility. But in the process you are adding a buttload of CPU overhead so much that any small background task can significantly affect your frame rates. Now, because of the extremely limited time that we were given to benchmark Arc before the embargo lift, we weren't able to test a wide variety of older games. This is actually a strategy that we've seen often when a manufacturer doesn't want you to look too closely. Fortunately, we have a solution to that. Tomorrow we are gonna be live for hours taking requests from our community and gaming side by side on the Arc A770 and RTX 3060. So you can see how your favorite games run, or if they run at all. Because nothing at this point is a guarantee. Intel told us point blank that they knew about the performance challenges of Arc in older games. And they had a strategy where they were gonna price this generation of cards according to Hollywood perform in a worst case scenario or in Tier 3 games. And I'm not gonna go as far as to say that Intel lied which would imply premeditated intention to deceive. But what I do have to say is that these CS:GO results show that they did not follow through on this. I mean, charitably, we could say that the Arc gets half of the performance of an RTX 3060 though at 10 UDP it's more like a third. So even if we're looking at a $400 RTX 3060, these A700 series GPUs should be at most 200 bucks. But if we go back to that dye size conversation, I mean remember this is a GPU that is larger than a 3070 and built on TSMCs cutting edge and six node rather than an Intel's own fab. So they can't exactly give themselves a friends and neighbors discount on the fabbing. So if they went any lower, they'd likely be losing money on every card they sold. And it gets even worse. Unfortunately for Intel, who's trying to position themselves as the scrappy underdog undercutting videos monopolistic pricing, we already have scrappy underdog at home. It's AMD and their Radeon 6600 goes for about 250 bucks and is able to truly trade blows with the RTX 3060 without the in specific DirectX 12 titles fine print. And although AMDs software hasn't always been fantastic if our community feedback has anything to go by, the last couple of years have been a real turning point. And their RDNA 2 cards have aged like fine wine, getting better with each new driver update. I would hope that the same will happen for Arc. And we actually have seen a lot of improvement since its first outing. Arc was actually impressively stable for our first gen product throughout our testing. But when it comes to raw performance, there are clearly some problems here that can't be fixed without new silicon. Like Intel's reliance on Resizable BAR. ReBAR, as we've started calling it, is a feature that allows for much larger, more efficient data dumps between the GPU and the system memory. It's only available on systems from the last few years but for most people that's not really a huge deal. Because performance on AMD and NVIDIA cards only improves by anywhere from 1% to at most about 10%. For Intel, on the other hand, ReBAR is basically a necessity. Performance can end up so bad without it that Intel said in their own press briefing that if you don't have it you might as well get a 3060. With this in mind then, we point blank asked Intel, why the heck would anybody buy an Arc GPU over the RX 6600? To which they replied, that the RX 6600 doesn't have feature parity with the A750. When compared to Radeon 6000, Intel claimed, Arc has much better rate tracing, AI acceleration, and media encoders that make it a much closer competitor to the RTX 3060. And okay, yeah. If you care about those things, they actually have a pretty good point. In Ray Tracing titles The A770 is a tiny bit behind the RTX 3060. And in Shadow of the Tomb Raider, Intel's Xe Super Sampling or XeSS ended up performing very similarly to NVIDIA's DLSS 2. So yes, Intel. You do very much have a leg up on AMD in 100% of the Strand type games on the market along with the other 20 games that actually support XeSS. But it's clear you'll need to pull some tricks out of your sleeves to get game developers to adopt XeSS more broadly. That sleeve trick, by the way, is easy on our Short Circuit hoodie, ltt store.com. It's not just game super sampling either. If you care about AI performance more generally, Arc is kind of excellent and here's why. Traditionally, matrix operations are done using a MAC, or a multiply, accumulate, combine. Which is okay at traditional workloads, but can be pretty slow for AI. On integrated graphics, Intel has a fancier way to MAC called DP4A where it takes a 32-bit register and splits it into 8-bit chunks, allowing for four parallel operations to be performed at once, improving throughput by about four times. The full-fat Arc cards like the A750, take that to the next level with XMX which allows you to do multiple multiply accumulates in parallel, which can improve throughput by up to 16 times in theory. And in practice where the A770 absolutely slaughtered the competition in Topaz Video Enhanced AI without running into any of the issues that we experienced in our A370 M review. Intel Arc also supports NextGen AV1 encoding and decoding, which is particularly beneficial for streamers due to its much higher image quality at low bit rates compared to H.264. We actually have a video coming up that discusses using a low end Arc GPU as kind of an encoding co-processor. If you don't wanna spend $900 on an RTX 47, excuse me, sorry. I mean 4080 12 gig. Unfortunately, in more traditional H.264 and H.265 encoding, the RTX 3060 is able to handily embarrass, even the top tier A770. And the same goes for Blender rendering. Though as a consolation prize, Intel was at least able to beat the 3050 in Blender while AMD continued to make its usual excellent case for never using AMD if you're a Blender artist. Intel also made a good case for not using Arc on Linux for the foreseeable future. Sorry guys. I know that you had high hopes, but currently Arc only supports Kernel Version 6. And Intel has said that they do not plan on supporting Version 5. Meaning that every stable version of Linux is currently not supported. To put this in perspective for the non Linux folks out there, this is basically like Intel launching a product but only having drivers for Windows 12. Oh, one thing I haven't mentioned yet is that there are both 16 gig and 8 gig versions of the A770. But the reason I didn't mention that is that Intel's only doing a small run of 16 gig cards and the A750 is the far more compelling option anyway at $289 for nearly the same performance. Now, thank you for that. I'm going to do something that might surprise you. I'm gonna ask you, you fine viewer of Linus Tech Tips. You savvy source of tech support for your friends and family to seriously consider Arc for your next GPU. Because somebody needs to do it, and it can't be your friend who's shopping for prebuilt right now. You do not wanna help them troubleshoot random edge cases on this thing, but somebody has to do it. Because the last few years have made it clear that NVIDIA has no qualms about gouging their customers when there's a shortage or no shortage. And the thing is that, everyone says they want more competition. But then they go ahead and just buy the NVIDIA GPU and hey thanks AMD for keeping Team Green Honest. Glad you exist, except when you don't keep Team Green Honest because you also like to jack up your prices and sell the crypto miners. So there it is. If you're the technical type and don't mind rolling the dice once in a while, I'm asking you to give Intel Arc a shot. You might not get as many FPS, but I think it's safe to say you'll have a more interesting hardware experience than a 3060 owner will. You can even over clock the thing or you could just ignore my plea and wait for AMD's RDNA three to drop. So you can pick up a GPU that was designed to take on NVIDIA's 4000 series instead of one that failed to take on the 3070. Just like I failed to segue to our sponsor. Nexigo. If you're working from home and are in need of a new webcam, Nexigo has a wide variety to choose from to keep you looking sharp on your conference calls. Whether you're on a budget and need high quality video or you just want the best possible webcam regardless of the price, their selection of webcams and webcam accessories will help you look and sound your best. Even if you're looking for something more in the middle. Nexigo has you covered. So take your webcam set up to the next level and get in Nexigo webcam using the link down below. If you guys enjoyed this video, you're gonna wanna check out our unboxing of the A770 over on the Short Circuit channel. We get into a little bit more depth about the different kinds of connectors on it and all that kind of good stuff. Show the RGB lighting up.",
+    "transcript_keywords": [
+        "Intel",
+        "Arc",
+        "Intel Arc",
+        "RTX",
+        "Arc GPU",
+        "GPU",
+        "give Intel Arc",
+        "performance",
+        "games",
+        "Arc cards",
+        "AMD",
+        "NVIDIA",
+        "end Arc GPU",
+        "DirectX",
+        "cards",
+        "Intel performance",
+        "shill hat",
+        "Arc performance",
+        "NVIDIA GPU",
+        "card"
+    ],
+    "transcript_entities": [
+        [
+            "webcam",
+            "ORG"
+        ],
+        [
+            "$289 msrp",
+            "MONEY"
+        ],
+        [
+            "3070",
+            "CARDINAL"
+        ],
+        [
+            "Hollywood",
+            "GPE"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "XeSS",
+            "PRODUCT"
+        ],
+        [
+            "20",
+            "CARDINAL"
+        ],
+        [
+            "289",
+            "MONEY"
+        ],
+        [
+            "Tier 3",
+            "ORG"
+        ],
+        [
+            "9",
+            "CARDINAL"
+        ],
+        [
+            "One",
+            "CARDINAL"
+        ],
+        [
+            "RGB",
+            "ORG"
+        ],
+        [
+            "Strand",
+            "ORG"
+        ],
+        [
+            "10%",
+            "PERCENT"
+        ],
+        [
+            "Horizon",
+            "FAC"
+        ],
+        [
+            "GPU",
+            "ORG"
+        ],
+        [
+            "Direct X12",
+            "FAC"
+        ],
+        [
+            "Resizable BAR",
+            "PRODUCT"
+        ],
+        [
+            "Arc",
+            "LOC"
+        ],
+        [
+            "nearly half",
+            "CARDINAL"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "400",
+            "MONEY"
+        ],
+        [
+            "AMD",
+            "ORG"
+        ],
+        [
+            "Version 5",
+            "LAW"
+        ],
+        [
+            "three",
+            "CARDINAL"
+        ],
+        [
+            "DirectX",
+            "ORG"
+        ],
+        [
+            "A750",
+            "PRODUCT"
+        ],
+        [
+            "A370 M",
+            "ORG"
+        ],
+        [
+            "Linus",
+            "PERSON"
+        ],
+        [
+            "Nexigo",
+            "GPE"
+        ],
+        [
+            "about 10%",
+            "PERCENT"
+        ],
+        [
+            "Linux",
+            "ORG"
+        ],
+        [
+            "half",
+            "CARDINAL"
+        ],
+        [
+            "DirectX 9",
+            "DATE"
+        ],
+        [
+            "200 bucks",
+            "MONEY"
+        ],
+        [
+            "first",
+            "ORDINAL"
+        ],
+        [
+            "Intel Arc",
+            "ORG"
+        ],
+        [
+            "Abacus",
+            "ORG"
+        ],
+        [
+            "about four",
+            "CARDINAL"
+        ],
+        [
+            "32",
+            "CARDINAL"
+        ],
+        [
+            "nine years ago",
+            "DATE"
+        ],
+        [
+            "A770",
+            "CARDINAL"
+        ],
+        [
+            "Arc GPU",
+            "ORG"
+        ],
+        [
+            "5% and 1%",
+            "PERCENT"
+        ],
+        [
+            "3050",
+            "CARDINAL"
+        ],
+        [
+            "Ray Trace",
+            "PERSON"
+        ],
+        [
+            "UDP",
+            "ORG"
+        ],
+        [
+            "3070",
+            "PRODUCT"
+        ],
+        [
+            "Blender",
+            "ORG"
+        ],
+        [
+            "XMX",
+            "ORG"
+        ],
+        [
+            "Windows 12",
+            "PRODUCT"
+        ],
+        [
+            "the last couple of years",
+            "DATE"
+        ],
+        [
+            "the Radeon 6600",
+            "EVENT"
+        ],
+        [
+            "Linus Tech Tips",
+            "WORK_OF_ART"
+        ],
+        [
+            "hours",
+            "TIME"
+        ],
+        [
+            "CPU",
+            "ORG"
+        ],
+        [
+            "six",
+            "CARDINAL"
+        ],
+        [
+            "Xe Super Sampling",
+            "ORG"
+        ],
+        [
+            "DirectX 12",
+            "DATE"
+        ],
+        [
+            "Intel",
+            "ORG"
+        ],
+        [
+            "Nexigo",
+            "ORG"
+        ],
+        [
+            "the last few years",
+            "DATE"
+        ],
+        [
+            "1080p",
+            "CARDINAL"
+        ],
+        [
+            "four",
+            "CARDINAL"
+        ],
+        [
+            "4000",
+            "CARDINAL"
+        ],
+        [
+            "about 250 bucks",
+            "MONEY"
+        ],
+        [
+            "Fortnite",
+            "ORG"
+        ],
+        [
+            "Radeon 6000",
+            "PRODUCT"
+        ],
+        [
+            "Topaz Video Enhanced AI",
+            "WORK_OF_ART"
+        ],
+        [
+            "4080 12",
+            "QUANTITY"
+        ],
+        [
+            "16",
+            "CARDINAL"
+        ],
+        [
+            "Arc",
+            "ORG"
+        ],
+        [
+            "DirectX 11",
+            "DATE"
+        ],
+        [
+            "Ray Tracing",
+            "PERSON"
+        ],
+        [
+            "10",
+            "CARDINAL"
+        ],
+        [
+            "XeSS",
+            "CARDINAL"
+        ],
+        [
+            "NextGen",
+            "ORG"
+        ],
+        [
+            "Vulcan",
+            "PRODUCT"
+        ],
+        [
+            "MAC",
+            "ORG"
+        ],
+        [
+            "100%",
+            "PERCENT"
+        ],
+        [
+            "jack",
+            "PERSON"
+        ],
+        [
+            "47",
+            "DATE"
+        ],
+        [
+            "Short Circuit",
+            "ORG"
+        ],
+        [
+            "Shadow of the Tomb Raider",
+            "WORK_OF_ART"
+        ],
+        [
+            "Ridge Wallet",
+            "PERSON"
+        ],
+        [
+            "12",
+            "CARDINAL"
+        ],
+        [
+            "the RX 6600",
+            "ORG"
+        ],
+        [
+            "A770",
+            "PRODUCT"
+        ],
+        [
+            "Team Green Honest",
+            "ORG"
+        ],
+        [
+            "Tomorrow",
+            "DATE"
+        ],
+        [
+            "3060",
+            "CARDINAL"
+        ],
+        [
+            "A700",
+            "PRODUCT"
+        ],
+        [
+            "Intel Blue",
+            "ORG"
+        ],
+        [
+            "16 gig and",
+            "TIME"
+        ],
+        [
+            "almost 10 years ago",
+            "DATE"
+        ],
+        [
+            "Arc",
+            "PERSON"
+        ],
+        [
+            "$50 to $100",
+            "MONEY"
+        ],
+        [
+            "NVIDIA",
+            "ORG"
+        ],
+        [
+            "1%",
+            "PERCENT"
+        ],
+        [
+            "900",
+            "MONEY"
+        ],
+        [
+            "Ultra",
+            "PERSON"
+        ],
+        [
+            "8",
+            "CARDINAL"
+        ],
+        [
+            "DP4A",
+            "PERSON"
+        ],
+        [
+            "up to 16",
+            "CARDINAL"
+        ],
+        [
+            "AMD",
+            "PRODUCT"
+        ],
+        [
+            "ltt store.com",
+            "ORG"
+        ],
+        [
+            "2",
+            "CARDINAL"
+        ],
+        [
+            "Linux",
+            "GPE"
+        ]
+    ]
+}

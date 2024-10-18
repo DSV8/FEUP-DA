@@ -1,0 +1,240 @@
+{
+    "video_id": "tYnjMiTTdms",
+    "title": "Kali Linux TP-Link TP-WN722N",
+    "channel": "David Bombal",
+    "channel_id": "UCP7WmQ_U4GB3K51Od9QvM0w",
+    "subscriber_count": 2650000,
+    "upload_date": "2021-04-08T14:28:48Z",
+    "video_url": "https://www.youtube.com/watch?v=tYnjMiTTdms",
+    "category": "Science & Technology",
+    "tags": [
+        "wifi",
+        "kali linux",
+        "tp-link tl-wn722n",
+        "tl-wn722n",
+        "kali linux tp link",
+        "kali linux tp-link tl-wn722n",
+        "tp link ac600 kali linux",
+        "tp-link tl-wn722n kali linux 2021",
+        "tp link kali linux",
+        "kali wifi",
+        "kali linux wifi not working",
+        "kali wifi adapter",
+        "kali wifi monitor mode",
+        "kali linux wifi adapter",
+        "kali linux wifi problem",
+        "kali linux 2021.1",
+        "best wifi adapter",
+        "best wifi adapter for kali linux",
+        "best wifi adapter for hacking",
+        "kali tp link",
+        "tp-link tl-wn722n kali linux 2020"
+    ],
+    "views": 311300,
+    "likes": 9227,
+    "comments_count": 1450,
+    "description": "NOTE: This has changed. Watch this video: https://youtu.be/tYnjMiTTdms\n\nFix the TP-Link TL-WN722N WiFi Adapter in Kali Linux so you can use it for monitoring WiFi networks. You can get the adapter to inject packets and set monitor mode once you update the drivers as I demonstrate in this video.\n\nMenu:\nTP-Link TL-WN722N Adapter differences: 0:00\nWhy do we care? 0:26\nWhat I'm going to show you: 1:09\nMenu Timestamps: 1:30\nMy experience: 1:53\nWould I recommend these adapters: 2:36\nLab setup: 3:02\nVersion 1 chipset: 3:53\nVersion 2/3 chipset: 4:21\nlsbusb -D information: 5:03\nVersion 2/3 adapter issue test: 6:28\nVersion 1 adapter test: 7:35\nCompare results: 9:04\nsudo apt update: 9:45\nsudo apt upgrade -y: 10:08\nsudo apt install bc: 10:31\nRestart Kali Linux: 10:39\nsudo apt-get install build-essential: 11:05\nsudo apt-get install libelf-dev: 11:12\nsudo apt-get install linux-headers-`uname -r`: 11:23\nsudo apt install dkms: 11:37\nsudo rmmod r8188eu.ko: 11:48\ngit clone https://github.com/aircrack-ng/rtl8188eus: 11:58\ncd rtl8188eus: 12:10\nsudo -i: 12:15\necho \"blacklist r8188eu\" to  \"/etc/modprobe.d/realtek.conf\": 12:20\nexit: 12:24\nsudo reboot: 12:26\nsudo apt update: 12:50\ncd rtl8188eus: 12:28\nsudo make: 13:02\nsudo make install: 13:18\nsudo modprobe 8188eu: 13:22\nVerify that adapter works: 13:29\nsudo ifconfig wlan0 down: 13:43\nsudo airmon-ng check kill: 13:50\nsudo iwconfig wlan0 mode monitor: 14:05\niwconfig to verify monitor mode: 14:10\nsudo ifconfig wlan0 up: 14:21\niwconfig: 14:30  \nInject packets: 14:36\nV1 interface: 15:00\nV2/V3 interface: 15:08\n\n==========\nCommands:\n==========\nYouTube doesn't allow the commands in the video description. Go to my github page using one of these links for the commands:\nShort link for commands: https://bit.ly/tp-link-tl-wn722n\nDirect link: https://github.com/davidbombal/Kali-Linux/blob/main/TP-Link%20TL-WN722N%20adapter\n\n====================\nRecommended Adapters:\n====================\nAlfa AWUS036NHA: https://amzn.to/3wnyVen\nAlfa AWUS036ACM: https://amzn.to/3fCL4WT\nAlfa AWUS036ACH: https://amzn.to/3rLAjny or https://amzn.to/2PxkkMV\n\nOthers:\nAlfa AWUS1900: https://amzn.to/31E0AtH\nAlfa Long-Range Dual-Band AC1200: https://amzn.to/34UUCEL\nAlfa AWUS036NEH: https://amzn.to/3sK2iW8\nPanda PAU05: https://amzn.to/3ue23Da\nPanda PAU06: https://amzn.to/3wwqRZ8\nPanda PAU09: https://amzn.to/3wosx6X\nWiFi Nation 802.11ac AC600: https://amzn.to/3cLQddm\nWiFi Nation Atheros AR9271: https://amzn.to/3u8JUqm\n\nSee Aircrack FAQ for more: https://bit.ly/39AtWNZ\n\n================\nConnect with me:\n================\nDiscord: https://discord.com/invite/usKSyzb\nTwitter: https://www.twitter.com/davidbombal \nInstagram: https://www.instagram.com/davidbombal \nLinkedIn: https://www.linkedin.com/in/davidbombal \nFacebook: https://www.facebook.com/davidbombal.co \nTikTok: http://tiktok.com/@davidbombal\nYouTube: https://www.youtube.com/davidbombal \n\n================\nLinks:\n================\nITProTV Free Training: https://www.itpro.tv/plans/personal/\nMy ITProTV affiliate link: https://go.itpro.tv/davidbombal\nOSCP: https://www.offensive-security.com/courses-and-certifications/\nSANS: https://www.sans.org/\nHack the box: https://www.hackthebox.eu/\nTry Hack Me: https://tryhackme.com/\nCTF Time: https://ctftime.org/ctf-wtf/\nCEH: https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/\n\nTP-Link TP-WN722N\nTP-WN722N\nwifi\nwifi kali linux\nbest wifi adapter for kali linux\nkali linux wifi\nwifi kali\nkali wifi\ntp-link tl-wn722n kali linux 2021\ntp-link tl-wn722n\nparrot os \nparrot os wifi\nhacking\nbest wifi adapters\nbest cybersecurity certs\ncybersecurity\ncybersecurity careers\nceh\noscp\nitprotv\nine\nejpt\nelearn security\noscp certification\nctf for beginners\nkali linux 2021.1\n\nPlease note that links listed may be affiliate links and provide me with a small percentage/kickback should you use them to purchase any of the items listed or recommended. Thank you for supporting me and this channel! \n\n#wifi #kalilinux #tplink",
+    "description_links": [
+        "https://youtu.be/tYnjMiTTdms",
+        "https://github.com/aircrack-ng/rtl8188eus:",
+        "https://bit.ly/tp-link-tl-wn722n",
+        "https://github.com/davidbombal/Kali-Linux/blob/main/TP-Link%20TL-WN722N%20adapter",
+        "https://amzn.to/3wnyVen",
+        "https://amzn.to/3fCL4WT",
+        "https://amzn.to/3rLAjny",
+        "https://amzn.to/2PxkkMV",
+        "https://amzn.to/31E0AtH",
+        "https://amzn.to/34UUCEL",
+        "https://amzn.to/3sK2iW8",
+        "https://amzn.to/3ue23Da",
+        "https://amzn.to/3wwqRZ8",
+        "https://amzn.to/3wosx6X",
+        "https://amzn.to/3cLQddm",
+        "https://amzn.to/3u8JUqm",
+        "https://bit.ly/39AtWNZ",
+        "https://discord.com/invite/usKSyzb",
+        "https://www.twitter.com/davidbombal",
+        "https://www.instagram.com/davidbombal",
+        "https://www.linkedin.com/in/davidbombal",
+        "https://www.facebook.com/davidbombal.co",
+        "http://tiktok.com/@davidbombal",
+        "https://www.youtube.com/davidbombal",
+        "https://www.itpro.tv/plans/personal/",
+        "https://go.itpro.tv/davidbombal",
+        "https://www.offensive-security.com/courses-and-certifications/",
+        "https://www.sans.org/",
+        "https://www.hackthebox.eu/",
+        "https://tryhackme.com/",
+        "https://ctftime.org/ctf-wtf/",
+        "https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/"
+    ],
+    "transcript": "- In this video, I'm going to show you the differences between a TP-link TL-WN722N version 1 wifi adapter, and a version two version three, wifi adapter. I recently ran a poll on my YouTube channel and it looks like most of you are using TP link wifi adapters. Now, there is a difference between a version one and a version two or three wifi adapter. The chip set within these adapters changed. Why do you care? Because by default this wifi adapters supports packet injection and monitoring mode. But this one doesn't on the documentation on the aircraft website, which I read. I was led to believe that you cannot do packet monitoring and packet injection using a version two or version three wifi adapter because the chip set changed. However, when I mentioned that on my previous video where I discussed a whole bunch of wifi adapters many of you commented and said that you got this to support packet injection and monitoring mode by changing the drivers on the wifi adapter. So thanks very much for sharing that. I went and did some research and for everyone's benefit I'm not going to show you the differences between these two wifi adapters. What happens by default? When you use this with in Kali Linux, in my example it's going to be 2021.1 And how that compares to say this wifi adapter. And then I'm going to show you how to get a version two version three TP link wifi adapter to work with in Kali so that it supports packet monitoring and packet injection. So in other words I'm going to cover a whole bunch of stuff in this video. Use the timestamps here or below to jump to the relevant part of the video. If you're only interested in getting this wifi adapter to work. So installing the correct drivers I've put the commands below this video. So you can simply copy the commands below. If you've got a version two version three adapter and you need to make this work. I did some research found some examples online but they didn't work for me. So I've now put together a list of commands that worked for me with Kali 2021.1 Let me know if it works for you. You've got to upgrade your operating system as an example and install various software packages to make it work. But before we get started, I want to ask you a favor. One of my goals this year is to reach a million subscribers on YouTube. I want to ask you to help me reach that goal. So if you enjoyed this video if you enjoy this type of content please consider subscribing to my YouTube channel. Please like this video and click on the bell to get notifications. Okay, let's get started. Now personally. I wouldn't recommend these adapters. If you can buy an alpha adapter or something else but I know for a lot of you it's very difficult to purchase alpha adapters. They're too expensive and you can't buy them in the country that you're in. A lot of people from India, as an example have told me that this is the best adapter for them. So that's why I'm going to go through the details of this adapter. I know a lot of you use this adapter. Now what I've got in this example is Kali running within a virtual machine on my Mac. I've also got it running within a virtual machine on a windows laptop. So I've got Kali within VMware fusion as well as a VM-ware player. I'll plug in this version one adapter to into the windows computer, and this version three adapter into the Mac so that we can compare the differences. So on windows I'm going to connect the version one adapter to Kali. Notice the chip set used and I'll now connect the version three adapter to my Mac. And on my Mac, I'm asked whether I want to connect this to Linux or my Mac. I'm going to connect it to Linux. Okay? So I'm going to be jumping between Kali windows and Kali my Mac. And I'll show you the differences between the two network adapters. Okay? So on windows, I'll open up a terminal. IWU config shows me that I've got a wlan wifi connection at the moment it's in managed mode. LSE USB shows me the chip set used by this wifi adapter. Now, if yours shows auto here, that's fine on a version one adapter I'll show you how to set this into monitor mode. Okay? So this is my Mac running Kali within VMware fusion. This is a version two adapter iwconfig shows me the nickname for the wifi adapter its mode is in managed mode at the moment. Yours may come up as auto once again, and I'll show you that Tronick change this to monitor mode, causes problems. LSUSB. We can see that this is a version two version three adapter. You can see that it's got a real tech chip set. That's different to the Atheros or theros chip set in the version one adapter. So version one, version two. Now, if you want to get more details you can use lsusb-D/dev/bus/usb/ and then specify the adapter. So this is bus to device two. So scrolling up, we can see the device ID information. We can see the vendor code. We can see the chip set used real tech chip set 802.11n NIC on this chip set that's once again different to the one running in windows. So lsusb-D/dev/bus/usb/002/003 Scrolling up. We can see the device ID information. We can see the vendor. We can see the product ID. We can see manufacturer USB version to WLAN serial number and other information is displayed here. Okay? So that just shows me technical differences between the two adapters. What's nice about this command is either using that or just to this you can see a lot of information about the chip set used. So if you got a wifi adapter and you weren't sure what chip said he was using this shows you that information very nicely. Okay. But let's have a look at the problem on a version two adapter. If I type sudo airmont -ng kill check this will kill any conflicting processes. Put my password in. So those processes were killed. I'll try and set this adapted to monitor mode. So using sudo airmon -ng start WLAN zero iwconfig has the mode changed? Mode, notice it stole managed mode sudo airmon -ng notice WLAN0 We don't have it as WLAN0 mon IWU config. Once again shows us that this adapters in managed a mode it's not going to work. So if I try and inject packets at this point notice I get device failure. Now, missed top the name let's try wlan0. Notice we get the error that we cannot set monitor mode on this wifi adapter. That's different to version one adapter. So on the version one adapt to on my windows computer. So first thing is kill processes. Processes have been killed. Sudo airmon -ng wlan0. I want to set this into monitor mode. Notice we see here, monitor mode has started. Iwconfig notice the name has changed. That's different to what we had previously previously on the version two adapter. It didn't say monitor mode. It stayed in managed mode. If I simply use airmon - ng. So just sudo airmon - ng, you can see that the interface name is wlan0mon. Interfaces once again, changed to monitor mode. So we've proven that monitoring works. Let's try packet injection. So sudo aireplay -ng --test wlan0mon notice packet injection is working. So packet injection works on a version, one adapter. So you don't have to do anything with the version one adapter. It works out of the box, plug it in. You can change it to monitor mode. You can do packet injection. With a version two adapter that doesn't work. However, so once again if I try and test that interface, it doesn't work. If I try and use wlan0, rather than wlan0mon notice we get the error that we cannot set monitor mode on this wifi adapter. So again, with the version two version three adapter so TP link version two, version three using the real tech chip set. I cannot set this to monitor mode. I can not run packet injection without updating the driver. So now I'm going to show you how to update the driver to get this to work. It's a long process. So once again, I've put the commands below. Okay? So once again, this is a version two or version three adapter, real tech using this chip set. Let's get it to work so that we can put this interface into monitoring mode and inject packets. First command. Sudo apt update to update references in Kali. Okay. Next step sudo apt upgrade to upgrade the operating system. Now this is going to take a while. So I'm going to speed up the video. At this point, you have to upgrade the operating system in my tests, letting me know if you didn't have to do that. But I had to upgrade the operating system to make this work in 2021.1. Okay. So the upgrade has completed. What I'm going to do now is install BC. We'll clear the screen. Now you don't have to do this right now, but I found that it helps I'm going to restart my Kali installation. You may want to do that directly after the upgrade Prompted to log in again, notice the gooey has changed. So after the upgrade did the installation changed, okay I'm going to install some additional software. So install Boldy central. That's already there. Just want to make sure that the software is in place And I'm going to use this command, but in the comments I've given you two options in case one of the commands doesn't work, but that's working for me. So that's good. I'm going to make sure that DKMS is installed. Okay. So that's done. I'm going to remove this from the Colonel. I don't want to use the older driver. I want to use the new driver with a TP link adapter. So I'm going to download this adapter from the air crack, get hub page. That's the new driver that I want to use. Ls shows me my directories. I'm going to go into that directory clear the screen, move to route, Echo that into the real tech configuration file exit out of route. And in my example, I found that it worked better. If I rebooted at this point, let me know in the comments if you found a quicker way of making this work, but sort of in my tests and the amount of time that I've had this is the process that worked best for me. Okay. Log back into Kali, Open up a command prompt once again, sudo apt update to make sure all my references are up to date. Okay? So you have to go back into the directory that we created. And now this is where you hope things work because we going to compile the software. So sudo make, looking good software is being compiled. Okay. Sudo make installed, to install the new driver and sudo modprobe 8188eu. Okay. So hopefully at this point our software is going to work properly. So I'll go do my home directory. Iwconfig shows me my wifi adapter mode is order at the moment on a top sudo Ifconfig wlan0 down clear the screen airmon - ng I'm gonna kill the processes again so sudo airmon - ng check kill and now let's check if we can set this adapter to monitor mode just before I do that, I'll clear the screen iwconfig. Notice the mode is auto, but when I set that again and type iwconfig, notice the mode has now changed to monitor mode that wasn't possible with the previous drivers, but now it works. Sudo ifconfig wlan0 up bring the interface up, iwconfig again everything looks good. We're in monitor mode. So let's test whether we can inject packets which we weren't able to do before. And then you go pack it Injection is now working. One important note is We are using wlan0 rather than wland0mon which is what we saw on the version one adapter. So on the windows, computer iwconfig shows me that the interface is wlan0mon. Whereas on the Mac iwconfig shows me that the interface is wlan0. This interface is in monitor mode. There is a difference between that and the monitoring interface on the windows computer. It's in monitor mode but the name changes. So when you use commands, you have to remember that with a version two version three adapter, you're just going to use wlan0, but with a version one adapter you're going to use wlan0mon. That affects the commands that you use. Okay. That was a long video, but hopefully it helps many of you. Hopefully it solves the problem about getting a version two of version, three adapter to use monitor mode. I personally wouldn't recommend this adapter. If you can buy a alpha adapter, I would use that, but I know for many of you, this is the best solution or the most cost effective solution. So hopefully this helps you. If you enjoyed this video, please like it. Please consider subscribing to my YouTube channel and clicking on the bell to get notifications. I'm David Bumble. I want to wish you all the very best",
+    "transcript_keywords": [
+        "version",
+        "adapter",
+        "wifi adapter",
+        "mode",
+        "monitor mode",
+        "wifi",
+        "Kali",
+        "set",
+        "chip set",
+        "monitor",
+        "adapters",
+        "work",
+        "sudo",
+        "Mac",
+        "chip",
+        "shows",
+        "packet injection",
+        "Notice",
+        "packet",
+        "version one adapter"
+    ],
+    "transcript_entities": [
+        [
+            "first",
+            "ORDINAL"
+        ],
+        [
+            "2021.1",
+            "CARDINAL"
+        ],
+        [
+            "three",
+            "CARDINAL"
+        ],
+        [
+            "USB",
+            "ORG"
+        ],
+        [
+            "Mac",
+            "ORG"
+        ],
+        [
+            "NIC",
+            "ORG"
+        ],
+        [
+            "BC",
+            "ORG"
+        ],
+        [
+            "One",
+            "CARDINAL"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "India",
+            "GPE"
+        ],
+        [
+            "TL",
+            "ORG"
+        ],
+        [
+            "Atheros",
+            "PRODUCT"
+        ],
+        [
+            "airmon - ng",
+            "PERSON"
+        ],
+        [
+            "this year",
+            "DATE"
+        ],
+        [
+            "YouTube",
+            "ORG"
+        ],
+        [
+            "IWU",
+            "ORG"
+        ],
+        [
+            "Kali",
+            "PERSON"
+        ],
+        [
+            "Mac",
+            "PERSON"
+        ],
+        [
+            "802.11n",
+            "CARDINAL"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "Boldy",
+            "PERSON"
+        ],
+        [
+            "DKMS",
+            "ORG"
+        ],
+        [
+            "Linux",
+            "GPE"
+        ],
+        [
+            "VMware",
+            "ORG"
+        ],
+        [
+            "Echo",
+            "ORG"
+        ],
+        [
+            "Tronick",
+            "GPE"
+        ],
+        [
+            "Kali Linux",
+            "PERSON"
+        ],
+        [
+            "WLAN",
+            "ORG"
+        ],
+        [
+            "million",
+            "CARDINAL"
+        ],
+        [
+            "First",
+            "ORDINAL"
+        ],
+        [
+            "airmon - ng",
+            "ORG"
+        ],
+        [
+            "1",
+            "CARDINAL"
+        ],
+        [
+            "VM",
+            "ORG"
+        ],
+        [
+            "LSUSB",
+            "ORG"
+        ],
+        [
+            "David Bumble",
+            "PERSON"
+        ],
+        [
+            "WLAN0",
+            "ORG"
+        ]
+    ]
+}

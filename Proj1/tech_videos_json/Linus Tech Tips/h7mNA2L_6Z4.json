@@ -1,0 +1,505 @@
+{
+    "video_id": "h7mNA2L_6Z4",
+    "title": "Intel Wants My Business Back - Sapphire Rapids Xeon W",
+    "channel": "Linus Tech Tips",
+    "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+    "subscriber_count": 15900000,
+    "upload_date": "2023-02-16T17:59:58Z",
+    "video_url": "https://www.youtube.com/watch?v=h7mNA2L_6Z4",
+    "category": "Science & Technology",
+    "tags": [],
+    "views": 1545791,
+    "likes": 53744,
+    "comments_count": 1442,
+    "description": "Reach and engage with your audience! Check out Moosend free for 30 days at https://lmg.gg/Vj1Q9\n\nGet 10% off all Jackery products with code LinusTechTips at https://lmg.gg/jackery10\n\nBoth AMD’s Threadripper and Intel’s Core X HEDT processors have been dormant for years now. But Intel’s Sapphire Rapids Xeon W is the spiritual successor, and hits AMD where they stopped competing.\n\nDiscuss on the forum: https://linustechtips.com/topic/1488645-intel-wants-my-business-back/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► LTX 2023 TICKETS AVAILABLE NOW: https://lmg.gg/ltx23\n► GET EXCLUSIVE CONTENT ON FLOATPLANE: https://lmg.gg/lttfloatplane\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► OUR WAN PODCAST GEAR: https://lmg.gg/podcastgear\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n1:19 Why AMD abandoned us and why it sucks\n3:00 Intel returns to compete again\n4:25 Sapphire Rapids and the W790 Platform\n5:16 \"Mainstream\" - Xeon W-2400 Series\n6:15 \"Expert\" - Xeon W-3400 Series\n8:33 Wait for reviews before getting too excited\n9:10 LGA-4677 - The One Socket\n10:18 AMD isn't in trouble yet\n11:16 Availability and what AMD's response may be",
+    "description_links": [
+        "https://lmg.gg/Vj1Q9",
+        "https://lmg.gg/jackery10",
+        "https://linustechtips.com/topic/1488645-intel-wants-my-business-back/",
+        "https://lttstore.com",
+        "https://lmg.gg/ltx23",
+        "https://lmg.gg/lttfloatplane",
+        "https://lmg.gg/sponsors",
+        "https://lmg.gg/podcastgear",
+        "https://twitter.com/linustech",
+        "http://www.facebook.com/LinusTech",
+        "https://www.instagram.com/linustech",
+        "https://www.tiktok.com/@linustech",
+        "https://www.twitch.tv/linustech",
+        "https://www.youtube.com/watch?v=PKfxmFU3lWY",
+        "https://itunes.apple.com/us/album/supernova/id936805712",
+        "https://soundcloud.com/laszlomusic",
+        "https://www.youtube.com/watch?v=ngsGBSCDwcI",
+        "http://spoti.fi/UxWkUw",
+        "http://www.youtube.com/approachingnirvana",
+        "https://www.instagram.com/mbarek_abdel/",
+        "https://geni.us/PgGWp",
+        "https://geni.us/mj6pHk4",
+        "https://geni.us/Ps3XfE"
+    ],
+    "transcript": "- AMD left the enthusiast community hanging and I took that personally because based on their promised upgrade path I invested heavily in Threadripper workstations only for AMD to quietly, completely abandon the high-end desktop space that prosumers and small businesses depend on. It's not that they didn't have a socket compatible successor product they just made the business decision not to launch it. But what's this? Intel is launching their Sapphire Rapid Xeon W processors and, get this, offering 64 lanes of PCI Express Gen 5 for just $30 more than a mainstream Core i5. Is the high-end desktop back? What else does Sapphire Rapids offer? Is it too good to be true? Good, like our sponsor, Jackery. Jackery's Explorer 1500 Power Station provides 1500 watt hours of capacity and allows up to seven devices to charge simultaneously. Only four hours are needed to recharge the Jackery from zero up to 80%. So why wait? Get 10% off with code Linus Tech tips at the link down below. I understand AMD's decision to abandon the HEDT or high-end desktop market. Some of it is rooted in pretty solid logic. Their mainstream 16 core CPUs are enough for just about any multi-threaded prosumer workload and very few people will fully appreciate the other benefits of HEDT. Like, who needs two terabytes of memory in their gaming system or half a dozen PCI express expansion cards. But that's never what HEDT was about. It was about making those features available for those who do need them or even just want them. I'm talking about the folks building home labs the hobbyists and enthusiasts who are just getting started with scientific or simulation workloads. The small businesses who need the performance and the features but can't afford the premium for certified hardware from big vendors like Lenovo. That's who AMD abandoned. Why? Well, because it was much more profitable to slap Pro on the box and sell that same silicone for way more money. But then, I mean, how'd they get away with that, right? Well, to give you some idea how competitive Intel's last HEDT lineup was with Threadripper 3000 here's what they cost at launch and here's what they're still worth today. That complete smack down of Intel's attempt at competition happened three years ago, which coincidentally is also the last time that AMD bothered to launch a product in this segment. It's almost like we need competition and no corporation is going to innovate without it. Thankfully, it really does seem to be here. Intel's announcement today is taking a page straight out of AMD's book and attacking not just the ridiculously expensive Threadripper Pro... Which they may or may not be competitive with. We'll have that link below. But also the hole in the market that was left open by the death of the non-pro Threadripper lineup with an honest to goodness HEDT lineup that starts at, no lie, under $400. Now, can you get a better CPU for $400? Probably, especially when you factor in the cost of the motherboard. Six cores, hardly impressive no matter how fast they are. But would that other CPU have 64 PCIE Gen 5 lanes and support for two terabytes of VCC memory? I didn't think so. So for the right customer, this is an absolute godsend and it's been a long time coming. Seriously. For the uninitiated, these chips have been stuck in development hell for over five years due in large part to teething pains for Intel's infamous 10 nanometer node which has now been renamed Intel seven. Now that the production woes seem to have been ironed out and wait for yields are presumably good enough though Intel's finally announced hard details on these next-gen workstation processors split into six tiers named Xeon W-3 through W-9 and then separated into mainstream workstation and expert workstation segments. Regardless of the tier though, all these new chips are based on the Golden Cove architecture that Intel used for their Performance Cores in their 12th gen mainstream processors, meaning that we understand the performance characteristics pretty well and that gets us pretty excited. And there's some bonuses. They've restored the missing AVX512 support and they've added advanced matrix extensions for accelerated deep learning. They also come for support with DDR5 with ECC and Intel vPro with an 8x DMI 4.0 link to the W790 chip set which adds capacity for an additional PCIE 16 Gen 4 slot plus up to five 20 gigabit per second USB three ports integrated two and a half gig networking, and WiFi 6E. Over half the lineup is also unlocked for over clocking too making these actual spiritual successors to the Core X family. Now the mainstream, or 2400 series provides 64 PCIE Gen 5 lanes direct from the CPU with support for any combination of up to four GPUs or eight NVMe storage devices. To go with that allotment you get up to 24 cores for the W7 chips, which are unlocked or as few as six cores. But I suspect that most people won't be interested in the base models and it seems like Intel agrees since anything under 12 cores is going to be OEM only. The pricing for what you can buy though is pretty exciting. Since the 16 and 24 core chips are priced more in line with OG Threadripper than new Threadripper Pro. You aren't getting as many cores as Threadripper but we already know these cores are fast and you're getting support for two terabytes of quad-channel memory to go along with that massive PCIE allotment. Or to go with your massive all black Stealth edition LTT desk pad. All sizes are the same price. You can get them at lttstore.com. I can't say the same for Intel's expert line. They are more expensive, but for good reason. Intel is finally rolling out their EMIB interconnect in a four tile arrangement. So, their first desktop chiplet processor. But while it is superficially similar to the way that OG Threadripper arranged its processor dies they are much closer together which should reduce the latency in communicating between the chiplets. Now, the pricing for these chips mainly lines up with Threadripper Pro which I get seeing as its PCIE lane count and four terabytes of eight channel memory support are comparable as well but I'm still a little disappointed. Either way, sitting at the top of the stack is the w9-3495X which tops out at a whopping 56 unlocked cores with over a hundred megabytes of level three cache and a stock turbo of 4.8 gigahertz. AMD's Threadripper Pro 5995WX meanwhile can claim more cores and cache but we already know from Ryzen 5000 versus 12th gen Core that Intel is likely to crush any current Threadripper in single-threaded tasks especially thanks to DDR five memory. And while Threadripper Pro's PCIE lane count is comparable the speed is not. I did a double take when I saw these numbers. The entire W-3400 expert line offers up 112 PCI Express Gen 5 lanes. That is just shy of double the total bandwidth of AMD's 128 Gen 4 lanes and allows for any combination of up to seven GPUs or 28 NVeSSDs. All that raw power, of course, though means that it's not going to sip current from the wall with Intel advertising a massive 350 watt base power and up to 420 watts, nice, max turbo power compared to Threadripper Pros 280 watts. Now, these numbers are not directly comparable. You're gonna have to wait for the full review for us to measure them but needless to say you are going to need some pretty hefty cooling to keep these things under control especially if you're using it in a rack mount chassis and especially if you are planning to overclock. Now, obviously a lot of what we've said so far is based on speculation. Source, me. Intel didn't even publish any performance figures relative to AMD, so all we can do is extrapolate based on what we know about the architecture of these chips and the advertised clock speeds. But as it looks right now Intel is gearing up to take a serious bite out of the lucrative workstation business that AMD has built up for itself over the last few years and ride in as a savior for those of us who have been waiting on something, anything to fill the gap that AMD's one gen wonder TRX 40 platform left in our hearts. On that note, something that may go underappreciated here with Sapphire Rapids is the fact that both the mainstream and expert series use the same socket, both as each other and the new Sapphire Rapids Xeon scalable CPUs, LGA 4677. This wasn't always true of previous gen CoreX Xeon W or Xeon scalable CPUs. Now, we're pretty sure this is gonna cause some confusion. You might see, for example, motherboards that are really designed for 112 lane CPUs and don't fully work with 64 lane chips. Or Intel may arbitrarily lock down chip compatibility whether it's by chipset model or a motherboard firmware. But if we assume that they execute this in a somewhat reasonable way they can provide not only a clear upgrade path if you wanna buy into the platform with a basic chip today and upgrade later but a better accessory ecosystem for both their workstations and servers. Especially when it comes to coolers. Being able to just move them around. That would be great. All of which is not to say that AMD is in danger just yet. It's just that competition has finally returned in this specific segment and they might need to, oh, I don't know actually bother to launch a compelling product. Or maybe they just won't. The business unit they've been gaining the most ground in over Intel this past year is one that is far more important to both of them than HEDT. Server and data center. Unfortunately for Intel, fourth gen EPYC Genoa has been living up to its name with up to 96 cores in a single chip. And they are not slow cores. You actually need two of Intel's brand new Xeon Platinum 8468V processors to match that thing and that comes in at about a 20% higher price with the added overhead of managing two Neumo domains. So if EPYC Genoa is a taste of what Threadripper 7000 could bring to the table Intel's victory here could be short-lived or even entirely hypothetical. We'll see. Sapphire Rapid Xeon W is gonna be available beginning in March with pre-orders available now from system integrators. Not that we would ever recommend pre-ordering. And AMD meanwhile has yet to release their Zen 4 based Storm Peak Threadrippers, so now the ball is in their court. Those have been rumored for launch in September this year but if we're lucky, perhaps these Sapphire Rapid Xeon Ws will make AMD see fit to expedite their plans and rumor has it they'll be returning to the HEDT space with non-pro Threadrippers as well. Though, it's also rumored that they'll continue to have separate TRX and WRX motherboards. Unlike Intel, we're gonna have to wait for AMD to confirm this or deny it. We're gonna have gonna have to wait and see how the performance lines up and we're gonna have to wait to hear about our sponsor. - Moosend. Moosend is an email marketing platform that provides business owners with a suite of tools to improve customer relationships through personalized outreach. Send professional looking emails and craft visually stunning landing pages with Moosend's campaign editor. You can check on how your campaigns are doing with a variety of analytical tools too. Are you tired of manually typing out responses? Avoid the carpal tunnel with Moosend's pre-made automation templates. Or create your own with their flexible drag and drop builder. Moosend also offers integrations with popular e-commerce platforms allowing businesses to streamline all their marketing efforts. So what are you waiting for? Get a moo-ve on and follow the link below to try Moosend for free for 30 days. - If you guys enjoyed this video and you're looking for something else to watch check out our video from just about a year ago on the release of the Threadripper Pro 5000 series and the lack of Threadripper non-pro 5000 series chips. That is what a lack of competition looks like and it turns out, it's the same no matter which team is on top. So don't root for either of them. Root for both.",
+    "transcript_keywords": [
+        "Threadripper Pro",
+        "Intel",
+        "Sapphire Rapid Xeon",
+        "Threadripper",
+        "AMD Threadripper Pro",
+        "AMD",
+        "Threadripper Pro PCIE",
+        "PCI Express Gen",
+        "Gen",
+        "cores",
+        "Rapid Xeon",
+        "Xeon",
+        "HEDT",
+        "Sapphire Rapid",
+        "Pro",
+        "AMD Threadripper",
+        "Pro PCIE lane",
+        "PCIE Gen",
+        "PCIE",
+        "PCI Express"
+    ],
+    "transcript_entities": [
+        [
+            "Sapphire Rapids",
+            "GPE"
+        ],
+        [
+            "40",
+            "CARDINAL"
+        ],
+        [
+            "vPro",
+            "ORG"
+        ],
+        [
+            "as few as six",
+            "CARDINAL"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "420 watts",
+            "QUANTITY"
+        ],
+        [
+            "Over half",
+            "CARDINAL"
+        ],
+        [
+            "112",
+            "CARDINAL"
+        ],
+        [
+            "eight",
+            "CARDINAL"
+        ],
+        [
+            "AVX512",
+            "GPE"
+        ],
+        [
+            "March",
+            "DATE"
+        ],
+        [
+            "1500 watt hours",
+            "TIME"
+        ],
+        [
+            "zero",
+            "CARDINAL"
+        ],
+        [
+            "about a 20%",
+            "PERCENT"
+        ],
+        [
+            "up to 96",
+            "CARDINAL"
+        ],
+        [
+            "10%",
+            "PERCENT"
+        ],
+        [
+            "seven",
+            "CARDINAL"
+        ],
+        [
+            "Sapphire Rapids Xeon",
+            "ORG"
+        ],
+        [
+            "64",
+            "CARDINAL"
+        ],
+        [
+            "400",
+            "MONEY"
+        ],
+        [
+            "Xeon W-3",
+            "ORG"
+        ],
+        [
+            "AMD",
+            "ORG"
+        ],
+        [
+            "PCIE Gen 5",
+            "PRODUCT"
+        ],
+        [
+            "LTT",
+            "ORG"
+        ],
+        [
+            "three",
+            "CARDINAL"
+        ],
+        [
+            "W790",
+            "ORG"
+        ],
+        [
+            "OG Threadripper",
+            "ORG"
+        ],
+        [
+            "24",
+            "CARDINAL"
+        ],
+        [
+            "HEDT",
+            "ORG"
+        ],
+        [
+            "Ryzen 5000",
+            "NORP"
+        ],
+        [
+            "WRX",
+            "ORG"
+        ],
+        [
+            "up to seven",
+            "CARDINAL"
+        ],
+        [
+            "first",
+            "ORDINAL"
+        ],
+        [
+            "Threadripper Pro",
+            "ORG"
+        ],
+        [
+            "Jackery",
+            "PERSON"
+        ],
+        [
+            "LGA",
+            "ORG"
+        ],
+        [
+            "2400",
+            "CARDINAL"
+        ],
+        [
+            "half a dozen",
+            "CARDINAL"
+        ],
+        [
+            "Neumo",
+            "PERSON"
+        ],
+        [
+            "two terabytes",
+            "DATE"
+        ],
+        [
+            "PCIE Gen 5",
+            "ORG"
+        ],
+        [
+            "two terabytes",
+            "QUANTITY"
+        ],
+        [
+            "DMI",
+            "ORG"
+        ],
+        [
+            "Zen 4",
+            "ORG"
+        ],
+        [
+            "September this year",
+            "DATE"
+        ],
+        [
+            "just $30",
+            "MONEY"
+        ],
+        [
+            "Six",
+            "CARDINAL"
+        ],
+        [
+            "up to four",
+            "CARDINAL"
+        ],
+        [
+            "Lenovo",
+            "ORG"
+        ],
+        [
+            "CPU",
+            "ORG"
+        ],
+        [
+            "six",
+            "CARDINAL"
+        ],
+        [
+            "a hundred megabytes",
+            "QUANTITY"
+        ],
+        [
+            "12th",
+            "CARDINAL"
+        ],
+        [
+            "three years ago",
+            "DATE"
+        ],
+        [
+            "28",
+            "CARDINAL"
+        ],
+        [
+            "Only four hours",
+            "TIME"
+        ],
+        [
+            "Xeon",
+            "ORG"
+        ],
+        [
+            "Moosend",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "ORG"
+        ],
+        [
+            "EMIB",
+            "ORG"
+        ],
+        [
+            "Gen 4",
+            "ORG"
+        ],
+        [
+            "W7",
+            "ORG"
+        ],
+        [
+            "30 days",
+            "DATE"
+        ],
+        [
+            "the last few years",
+            "DATE"
+        ],
+        [
+            "this past year",
+            "DATE"
+        ],
+        [
+            "Sapphire Rapid Xeon W",
+            "ORG"
+        ],
+        [
+            "four",
+            "CARDINAL"
+        ],
+        [
+            "12th",
+            "ORDINAL"
+        ],
+        [
+            "8468V",
+            "CARDINAL"
+        ],
+        [
+            "four terabytes",
+            "QUANTITY"
+        ],
+        [
+            "Linus Tech",
+            "ORG"
+        ],
+        [
+            "w9",
+            "GPE"
+        ],
+        [
+            "ECC",
+            "ORG"
+        ],
+        [
+            "350 watt",
+            "QUANTITY"
+        ],
+        [
+            "16",
+            "CARDINAL"
+        ],
+        [
+            "five",
+            "CARDINAL"
+        ],
+        [
+            "Threadripper",
+            "GPE"
+        ],
+        [
+            "up to 80%",
+            "PERCENT"
+        ],
+        [
+            "Golden Cove",
+            "FAC"
+        ],
+        [
+            "just about a year ago",
+            "DATE"
+        ],
+        [
+            "VCC",
+            "ORG"
+        ],
+        [
+            "10 nanometer",
+            "QUANTITY"
+        ],
+        [
+            "Sapphire Rapid Xeon Ws",
+            "ORG"
+        ],
+        [
+            "Xeon W",
+            "PRODUCT"
+        ],
+        [
+            "12",
+            "CARDINAL"
+        ],
+        [
+            "8x",
+            "CARDINAL"
+        ],
+        [
+            "fourth",
+            "ORDINAL"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "Performance Cores",
+            "PRODUCT"
+        ],
+        [
+            "56",
+            "CARDINAL"
+        ],
+        [
+            "five years",
+            "DATE"
+        ],
+        [
+            "second",
+            "ORDINAL"
+        ],
+        [
+            "128",
+            "CARDINAL"
+        ],
+        [
+            "4.8 gigahertz",
+            "QUANTITY"
+        ],
+        [
+            "PCIE",
+            "ORG"
+        ],
+        [
+            "PCI Express Gen 5",
+            "ORG"
+        ],
+        [
+            "Xeon Platinum",
+            "ORG"
+        ],
+        [
+            "two and a",
+            "DATE"
+        ],
+        [
+            "today",
+            "DATE"
+        ],
+        [
+            "Storm Peak Threadrippers",
+            "WORK_OF_ART"
+        ],
+        [
+            "PCI",
+            "ORG"
+        ],
+        [
+            "Threadripper 7000",
+            "FAC"
+        ],
+        [
+            "EPYC Genoa",
+            "PERSON"
+        ],
+        [
+            "AMD",
+            "PRODUCT"
+        ],
+        [
+            "USB",
+            "ORG"
+        ],
+        [
+            "Moosend",
+            "FAC"
+        ],
+        [
+            "DDR5",
+            "PERSON"
+        ],
+        [
+            "Core",
+            "ORG"
+        ],
+        [
+            "Threadripper Pro's",
+            "ORG"
+        ],
+        [
+            "up to five 20",
+            "CARDINAL"
+        ]
+    ]
+}

@@ -1,0 +1,445 @@
+{
+    "video_id": "dlofjA3Y3aU",
+    "title": "Move Over, Apple.",
+    "channel": "TechLinked",
+    "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
+    "subscriber_count": 1900000,
+    "upload_date": "2022-05-24T00:45:09Z",
+    "video_url": "https://www.youtube.com/watch?v=dlofjA3Y3aU",
+    "category": "Science & Technology",
+    "tags": [
+        "Linus",
+        "LinusTechTips",
+        "tech news",
+        "Riley Murdock",
+        "tech",
+        "news",
+        "Riley",
+        "AMD",
+        "Computex 2022",
+        "Ryzen 7000",
+        "Zen 4",
+        "5.5GHz",
+        "specs",
+        "5nm",
+        "pc gaming",
+        "CPU",
+        "processors",
+        "PCIe 5.0",
+        "DDR5",
+        "Wi-Fi 6E",
+        "performance",
+        "release date",
+        "AM5",
+        "X670E",
+        "AM5 socket"
+    ],
+    "views": 550185,
+    "likes": 30950,
+    "comments_count": 779,
+    "description": "Check out the Govee DreamView G1 Pro Gaming Light at: https://amzn.to/3Ge5v83\n\n► LISTEN TO THE TECH NEWS: https://lmg.gg/TechLinkedPodcast\n►GET MERCH: http://www.LTTStore.com/\n►SUPPORT US ON FLOATPLANE: https://www.floatplane.com/\n►LTX EXPO: https://www.ltxexpo.com/\n\nNEWS SOURCES: https://lmg.gg/hIrYN\n---------------------------------------------------\nTimestamps:\n0:00 this is a safe place\n0:07 Ryzen 7000 at Computex\n1:46 Corsair Voyager A1600 laptop\n2:37 Google vs. Tinder\n3:32 Govee DreamView G1 Pro\n4:11 QUICK BITS\n4:17 iFixit sells Steam Deck parts \n4:51 Microsoft Computex 'keynote'\n5:15 Take-Two buys Zynga, EA is lonely\n5:43 Conformal copper instead of heatsinks\n6:08 Boeing Starliner docks with ISS\n\nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: http://twitter.com/TechLinkedYT\nInstagram: http://instagram.com/TechLinkedYT\nFacebook: http://facebook.com/TechLinked",
+    "description_links": [
+        "https://amzn.to/3Ge5v83",
+        "https://lmg.gg/TechLinkedPodcast",
+        "http://www.LTTStore.com/",
+        "https://www.floatplane.com/",
+        "https://www.ltxexpo.com/",
+        "https://lmg.gg/hIrYN",
+        "http://twitter.com/TechLinkedYT",
+        "http://instagram.com/TechLinkedYT",
+        "http://facebook.com/TechLinked"
+    ],
+    "transcript": "- Let me guess you're here 'cuz you haven't gotten your tech news yet. That's fine, that's fine. It's nothing to be ashamed of. AMD was not ashamed at all to let loose a whole whack of details about their upcoming Ryzen 7000 series processors at Computex because some of the top end models will be able to boost up to 5.5 gigahertz matching Intel's core i9-12900KS who is probably so embarrassed right now. The 7000 series will use team red's Zen 4 architecture which will apparently confer a 15% uplift in single core performance. AMD says the chips will be the first 5nm desktop processors, which I guess is a shot at Apple's M1 powered Mac mini and iMac. They thought they were desktops. Oh honey. No, no, no, no. All Ryzen 7000 chips will also include integrated GPUs once more powered by RDNA 2 graphics, which is great. Although some enthusiasts are already criticizing the 15% performance uplift as \"extremely low\" given the doubling of L2 cache to one megabyte per core. So it's a good thing AMD said they'll support their existing AM4 platform for many years to come, but I don't know these new AM5 motherboards look pretty cool. Support for PCIe 5.0 DDR5, Wi-Fi 6E and up to 14 20 gigabits per second USB-C ports. There's even the ROG Crosshair X670E Extreme and the E stands for Extreme 2, So that's two Extremes. Wow. Oh, and if you can't afford 14 USB-C ports AMD's gonna launch budget laptop APUs with Zen 2 cores and RDNA 2 graphics called \"Mendocino.\" Wikipedia says that means \"of Mendoza,\" which is I don't know about you, I like that. Corsair also shared some team red focus news today with the introduction of the company's first gaming laptop, the Voyager a1600, which is powered by up to a Ryzen 9 6900HS processor and a Radeon RX 6800M GPU. And it's good thing too because you'll need a lot of power to run the touch bar. Yeah, it's got a touch bar like a Mac, but this one's different. It can be customized with Stream Deck's software which is why Corsair is positioning this unit towards streamers, popular ones who may be able to afford its starting price of 2,700 USD. Although it does have a 16-inch 240 Hz QHD+ screen, CHERRY MX key switches and a dedicated MUX switch. I don't know how they forgot to fill in that hole in the middle though. Have you seen it? It's just, you can see right through it. And Google has struck another agreement to let Match Group, the parent company of dating apps Tinder and Hinge continue using alternative payment methods other than the Google Play Store's built in billing system which requires devs to give Google a cut of transactions. The agreement follows Match Group filing a lawsuit earlier this month after Google began to finally start enforcing its policy requiring certain developers to use play store billing, which Google was like super chill about before it's net wasn't big deal. That's what talking to Tim Sweeney will do to you. You're just different afterwards. The Match Group agreement also follows a similar agreement with music service Bandcamp who will be able to use its existing payment system until the lawsuit between its new owner, Epic Games and Google is resolved. Hasn't really even started yet. And the Apple and Epic case is still being appealed, so it seems like we might just be talking about this until the ice caps melt. Strap in! Now it's time for quick bits brought to you by the Govee DreamView G1 Pro Gaming Light which can make your gaming sessions even more immersive. You'll forget who you even are. Just kidding that that sounds dangerous. The kit includes a translucent rounded LED neon light and two light bars with a curved edge design for double the RGBIC lighting effects, and its game match technology allows for reactive lights with four specialized modes for FPS, RPG, mobile and racing games. Use the Govee Home app to control your lights further with more than 42 different scene modes to choose from. So get your DreamView G1 Pro Gaming Light from Govee at the link below. I can only release the quick bits if you sign the form. Gabe knows we don't need another lawsuit. iFixit has listed official parts for valves Steam Deck gaming handheld and Index VR headset for sale on the iFixit store after leaks of the company's plans showed up on the weekend. While you can't get necessarily every part right now, the motherboard isn't available and seems like stock for other parts have already run out. It's more good news for \"the right to repair\" movement, even if valves instructions to \"not repair the steam deck yourself\" still ring in my mind. But it does make more sense if they're talking to me, not to you, you can do it. I would probably take out the building. I don't even want to think about what Dennis would do. Microsoft also had a Computex keynote last night which they used to talk about how user adoption and satisfaction with Windows 11 is the highest out of all windows operating system releases. I'm sorry, I couldn't say that without laughing. I guess they're saying that now before they launched the public version of the insider bill that currently has a mandatory search bar on the desktop that will only use Bing and Microsoft edge. I feel like that would change things. Take-Two owner of Rockstar and 2K games has acquired Zynga, developer of mobile games like FarmVille, for $12.7 billion marking the latest high profile acquisition in the gaming industry. Meanwhile, EA finds itself in an increasingly small pool of AAA publishers that haven't been acquired. So they're reportedly asking everyone from Amazon to Apple to buy them out. I mean they have so much value to offer, Battlefront and Thumb the list goes on. Computer processors normally use heat sinks to cool off but researchers in Illinois and California have developed a new solution, coating the entire device not just the processor in a conformal coating of copper. The method is apparently at least as good as regular heat sinks and might actually be more efficient. I'm sure they didn't mean to end Noctua's whole career like that, but I'm sure you'll still be able to put brown fans all over your PC if you want to. And Boeing's Starliner crew module has finally docked with the international space station after years of delays. This was originally supposed to happen in 2019, the same year SpaceX docked its crew dragon module at the ISS. Well, now that Boeing has its big boy space pants on time for its CEO, Dave Calhoun, to start talking big on Twitter. I know Bezos and Musk are intimidating, but get in there Dave, I believe in you. And I believe that you can come back on Wednesday for more tech news and you can keep coming back until your natural tech news grows in. We won't tell anybody.",
+    "transcript_keywords": [
+        "Pro Gaming Light",
+        "Match Group",
+        "Google",
+        "gaming",
+        "AMD",
+        "USBC ports AMD",
+        "Gaming Light",
+        "Match Group agreement",
+        "Pro Gaming",
+        "Google Play Store",
+        "Match",
+        "Light",
+        "good thing AMD",
+        "Ryzen",
+        "Games",
+        "matching Intel core",
+        "Group",
+        "Steam Deck gaming",
+        "Apple",
+        "good"
+    ],
+    "transcript_entities": [
+        [
+            "ISS",
+            "ORG"
+        ],
+        [
+            "Wikipedia",
+            "PERSON"
+        ],
+        [
+            "Battlefront and Thumb",
+            "PRODUCT"
+        ],
+        [
+            "Starliner",
+            "PRODUCT"
+        ],
+        [
+            "4",
+            "CARDINAL"
+        ],
+        [
+            "Corsair",
+            "ORG"
+        ],
+        [
+            "Google",
+            "ORG"
+        ],
+        [
+            "Boeing",
+            "ORG"
+        ],
+        [
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "EA",
+            "ORG"
+        ],
+        [
+            "Dennis",
+            "PERSON"
+        ],
+        [
+            "Twitter",
+            "ORG"
+        ],
+        [
+            "AAA",
+            "ORG"
+        ],
+        [
+            "AMD",
+            "ORG"
+        ],
+        [
+            "RPG",
+            "ORG"
+        ],
+        [
+            "Epic Games",
+            "ORG"
+        ],
+        [
+            "California",
+            "GPE"
+        ],
+        [
+            "Dave",
+            "PERSON"
+        ],
+        [
+            "5.5 gigahertz",
+            "QUANTITY"
+        ],
+        [
+            "2",
+            "CARDINAL"
+        ],
+        [
+            "today",
+            "DATE"
+        ],
+        [
+            "Stream Deck's",
+            "PERSON"
+        ],
+        [
+            "FarmVille",
+            "GPE"
+        ],
+        [
+            "FPS",
+            "ORG"
+        ],
+        [
+            "2,700 USD",
+            "MONEY"
+        ],
+        [
+            "the weekend",
+            "DATE"
+        ],
+        [
+            "Dave Calhoun",
+            "PERSON"
+        ],
+        [
+            "Computex",
+            "ORG"
+        ],
+        [
+            "many years",
+            "DATE"
+        ],
+        [
+            "2019",
+            "DATE"
+        ],
+        [
+            "14 20 gigabits",
+            "QUANTITY"
+        ],
+        [
+            "one megabyte",
+            "QUANTITY"
+        ],
+        [
+            "Gabe",
+            "PERSON"
+        ],
+        [
+            "Bing",
+            "PERSON"
+        ],
+        [
+            "last night",
+            "TIME"
+        ],
+        [
+            "Computex",
+            "GPE"
+        ],
+        [
+            "first",
+            "ORDINAL"
+        ],
+        [
+            "M1",
+            "PRODUCT"
+        ],
+        [
+            "Ryzen 7000",
+            "NORP"
+        ],
+        [
+            "Tim Sweeney",
+            "PERSON"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "GPU",
+            "ORG"
+        ],
+        [
+            "Windows 11",
+            "PRODUCT"
+        ],
+        [
+            "Ryzen 9",
+            "LAW"
+        ],
+        [
+            "16-inch 240 Hz",
+            "QUANTITY"
+        ],
+        [
+            "DreamView",
+            "ORG"
+        ],
+        [
+            "MUX",
+            "ORG"
+        ],
+        [
+            "G1 Pro Gaming Light",
+            "PRODUCT"
+        ],
+        [
+            "Ryzen 7000",
+            "FAC"
+        ],
+        [
+            "Illinois",
+            "GPE"
+        ],
+        [
+            "iFixit",
+            "ORG"
+        ],
+        [
+            "iMac",
+            "ORG"
+        ],
+        [
+            "The Match Group",
+            "ORG"
+        ],
+        [
+            "Bezos",
+            "PERSON"
+        ],
+        [
+            "the Google Play Store's",
+            "EVENT"
+        ],
+        [
+            "the same year",
+            "DATE"
+        ],
+        [
+            "second",
+            "ORDINAL"
+        ],
+        [
+            "Mendoza",
+            "PERSON"
+        ],
+        [
+            "L2",
+            "PRODUCT"
+        ],
+        [
+            "Govee",
+            "PERSON"
+        ],
+        [
+            "earlier this month",
+            "DATE"
+        ],
+        [
+            "Microsoft",
+            "ORG"
+        ],
+        [
+            "Voyager",
+            "PRODUCT"
+        ],
+        [
+            "Wednesday",
+            "DATE"
+        ],
+        [
+            "Radeon",
+            "ORG"
+        ],
+        [
+            "Bandcamp",
+            "ORG"
+        ],
+        [
+            "Mendocino",
+            "GPE"
+        ],
+        [
+            "Match Group",
+            "ORG"
+        ],
+        [
+            "Apple",
+            "ORG"
+        ],
+        [
+            "SpaceX",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "ORG"
+        ],
+        [
+            "5.0",
+            "CARDINAL"
+        ],
+        [
+            "14",
+            "CARDINAL"
+        ],
+        [
+            "more than 42",
+            "CARDINAL"
+        ],
+        [
+            "7000",
+            "CARDINAL"
+        ],
+        [
+            "Hinge",
+            "PERSON"
+        ],
+        [
+            "Epic",
+            "PERSON"
+        ],
+        [
+            "Zynga",
+            "ORG"
+        ],
+        [
+            "the ROG Crosshair X670E Extreme",
+            "PRODUCT"
+        ],
+        [
+            "$12.7 billion",
+            "MONEY"
+        ],
+        [
+            "Noctua",
+            "ORG"
+        ],
+        [
+            "four",
+            "CARDINAL"
+        ],
+        [
+            "6900HS",
+            "CARDINAL"
+        ],
+        [
+            "Mac",
+            "ORG"
+        ],
+        [
+            "Two",
+            "CARDINAL"
+        ],
+        [
+            "USB-C",
+            "ORG"
+        ],
+        [
+            "15%",
+            "PERCENT"
+        ],
+        [
+            "Rockstar",
+            "ORG"
+        ],
+        [
+            "years",
+            "DATE"
+        ],
+        [
+            "Extreme 2",
+            "ORG"
+        ],
+        [
+            "5",
+            "CARDINAL"
+        ],
+        [
+            "RGBIC",
+            "ORG"
+        ]
+    ]
+}

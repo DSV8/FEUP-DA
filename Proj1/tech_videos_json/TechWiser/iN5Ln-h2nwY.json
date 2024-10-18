@@ -1,0 +1,31 @@
+{
+    "video_id": "iN5Ln-h2nwY",
+    "title": "CMD Tutorial: How to Hide Folder in Windows Without Software",
+    "channel": "TechWiser",
+    "channel_id": "UCdp6GUwjKscp5ST4M4WgIpw",
+    "subscriber_count": 2200000,
+    "upload_date": "2015-12-20T12:46:26Z",
+    "video_url": "https://www.youtube.com/watch?v=iN5Ln-h2nwY",
+    "category": "Science & Technology",
+    "tags": [
+        "tips",
+        "tricks",
+        "how to hide folder on windows",
+        "how to hide folder in windows 7 with command prompt",
+        "CMD Tutorial: How to Hide Folder in Windows Without Software"
+    ],
+    "views": 3151,
+    "likes": 105,
+    "comments_count": 30,
+    "description": "This tutorial shows how to hide folders in windows like a PRO. We will use the combination of attrib and cacls command. \n\n[TimeStamps]\n\nSTEP 1: Create a folder in system32\nSTEP 2: Hide it with attrib command\nSTEP 3: Then hide it's content with cacls command\nSTEO 4: Create a .bat file to easily lock and unlock the folder\n\n[Command used in the video]\n\nTo hide the folder--\n\nehco off\nattrib [folder_name] +h +r +s && cacls folder_name] /e /c /d %username%\n\nTo unhide the folder--\n\necho off\ncacls  [folder_name] /e /c /g %username%:f && attrib  [folder_name] -h -r -s \n\n\n\n\n\n[I am social]\n\nWebsite: www.receivetipstricks.com\n\nFacebook: www.facebook.com/ReceiveTips\n\nTwitter:  www.twitter.com/ReceiveTips\n\nGoogle plus: https://plus.google.com/u/0/111437874667316457765",
+    "description_links": [
+        "https://plus.google.com/u/0/111437874667316457765"
+    ],
+    "transcript": "No manual transcript available",
+    "transcript_keywords": [
+        "manual transcript",
+        "manual",
+        "transcript"
+    ],
+    "transcript_entities": []
+}

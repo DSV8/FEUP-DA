@@ -1,0 +1,53 @@
+{
+    "video_id": "-VCEvqqlrBk",
+    "title": "10 Useful Mac Tips and Tricks",
+    "channel": "TechWiser",
+    "channel_id": "UCdp6GUwjKscp5ST4M4WgIpw",
+    "subscriber_count": 2200000,
+    "upload_date": "2017-03-28T16:34:38Z",
+    "video_url": "https://www.youtube.com/watch?v=-VCEvqqlrBk",
+    "category": "Science & Technology",
+    "tags": [
+        "tips tricks",
+        "how to",
+        "tutorial guide",
+        "Mrinal Saha",
+        "TechWiser",
+        "OS X Tips",
+        "Mac Tips",
+        "New OS X Users",
+        "Getting started on OS X",
+        "Mac Tips and Tricks",
+        "New Mac Tips",
+        "Mac User Tips",
+        "How to use OS X",
+        "How to use Mac",
+        "How to use OSX",
+        "Switching from windows to OS X",
+        "Mac Newbie tips",
+        "Mac Beginners Tips",
+        "macOS Tips",
+        "How to use macOS"
+    ],
+    "views": 34221,
+    "likes": 733,
+    "comments_count": 42,
+    "description": "Hey guys, here are some MacOS tips and tricks that I use daily.\n\n\n[Video Content]\n\n1. Shift + Minimize\n2. Text Clipping - Copy Text and drag it to home screen\n3. Tap and hold the green button\n4. Space bar for preview and uploading\n5. Use help for search\n6. CMD + Shift + . to hide and unhide files\ndefaults write com.apple.finder AppleShowAllFiles TRUE\nkillall Finder\n7. Delete large files\n8. Tap on the file name to save it or drag it to a folder to save it\n9. Convert a Screenshot to a Jpeg on a Mac\ndefaults write com.apple.screencapture type jpg\nkillall SystemUIServer\n10.  Find MacOS download history\n\nsqlite3 ~/Library/Preferences/com.apple.LaunchServices.QuarantineEventsV* 'select LSQuarantineDataURLString from LSQuarantineEvent'\n\nYou can clear the history\nWith this command\n\nsqlite3 ~/Library/Preferences/com.apple.LaunchServices.QuarantineEventsV* 'delete from LSQuarantineEvent'\n\n\nYou can reach me here\n\nWebsite - http://techwiser.com/\nYouTube - https://www.youtube.com/techwiser\nFacebook -https://www.facebook.com/techwiser\nTwitter - https://twitter.com/TechWiser\nInstagram - https://www.instagram.com/techwiser\n\nWhich background music did I use?\n \nCut Trance - Cephelopod by Kevin MacLeod is licensed under a Creative Commons Attribution license (https://creativecommons.org/licenses/by/4.0/)\nSource: http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100273\nArtist: http://incompetech.com/\n\n\nWhat camera do I use? \nCanon 70D\n\nWhat mike do I use?\nBlue Yeti and Video Mic pro (depends on requirement)\n\nWhat tripod do I use?\nManfrotto MVKBFR\n\nWhat video editor do I use?\nFinal Cut Pro\n\nMy computer do I use?\niMac 2015 for editing and a ThinkPad for casual work",
+    "description_links": [
+        "http://techwiser.com/",
+        "https://www.youtube.com/techwiser",
+        "https://www.facebook.com/techwiser",
+        "https://twitter.com/TechWiser",
+        "https://www.instagram.com/techwiser",
+        "https://creativecommons.org/licenses/by/4.0/)",
+        "http://incompetech.com/music/royalty-free/index.html?isrc=USUAN1100273",
+        "http://incompetech.com/"
+    ],
+    "transcript": "No manual transcript available",
+    "transcript_keywords": [
+        "manual transcript",
+        "manual",
+        "transcript"
+    ],
+    "transcript_entities": []
+}

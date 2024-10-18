@@ -1,0 +1,499 @@
+{
+    "video_id": "_IzyJTcnPu8",
+    "title": "Your Router Sucks. Build Your Own Instead!",
+    "channel": "Linus Tech Tips",
+    "channel_id": "UCXuqSBlHAE6Xw-yeJA0Tunw",
+    "subscriber_count": 15900000,
+    "upload_date": "2022-11-08T20:03:53Z",
+    "video_url": "https://www.youtube.com/watch?v=_IzyJTcnPu8",
+    "category": "Science & Technology",
+    "tags": [
+        "networking",
+        "router",
+        "cisco",
+        "pfsense",
+        "opnsense",
+        "jake tivy",
+        "bitdefender",
+        "security",
+        "modem",
+        "internet",
+        "switch"
+    ],
+    "views": 2046055,
+    "likes": 72915,
+    "comments_count": 3739,
+    "description": "Save 59% on a year of Bitdefender Premium Security at: https://lmg.gg/qMMV8\n\nDid you know that you can build your own router that can perform better than off-the-shelf products? It’s easier than you might think to build your own opnSense or pfSense router, and we’ll show you how!\n\nDiscuss on the forum: https://linustechtips.com/topic/1466389-your-router-sucks-build-your-own-instead-sponsored/\n\nPurchases made through some store links may provide some compensation to Linus Media Group.\n\n► GET MERCH: https://lttstore.com\n► SUPPORT US ON FLOATPLANE: https://www.floatplane.com/ltt\n► AFFILIATES, SPONSORS & REFERRALS: https://lmg.gg/sponsors\n► PODCAST GEAR: https://lmg.gg/podcastgear\n\n\nFOLLOW US \n---------------------------------------------------  \nTwitter: https://twitter.com/linustech\nFacebook: http://www.facebook.com/LinusTech\nInstagram: https://www.instagram.com/linustech\nTikTok: https://www.tiktok.com/@linustech\nTwitch: https://www.twitch.tv/linustech\n\nMUSIC CREDIT\n---------------------------------------------------\nIntro: Laszlo - Supernova\nVideo Link: https://www.youtube.com/watch?v=PKfxmFU3lWY\niTunes Download Link: https://itunes.apple.com/us/album/supernova/id936805712\nArtist Link: https://soundcloud.com/laszlomusic\n\nOutro: Approaching Nirvana - Sugar High\nVideo Link: https://www.youtube.com/watch?v=ngsGBSCDwcI\nListen on Spotify: http://spoti.fi/UxWkUw\nArtist Link: http://www.youtube.com/approachingnirvana\n\nIntro animation by MBarek Abdelwassaa https://www.instagram.com/mbarek_abdel/\nMonitor And Keyboard by vadimmihalkevich / CC BY 4.0  https://geni.us/PgGWp\nMechanical RGB Keyboard by BigBrotherECE / CC BY 4.0 https://geni.us/mj6pHk4\nMouse Gamer free Model By Oscar Creativo / CC BY 4.0 https://geni.us/Ps3XfE\n\nCHAPTERS\n---------------------------------------------------\n0:00 Intro\n0:45 The problem with ISP Routers\n1:26 What hardware do I need?\n3:37 How about software?\n4:01 Installing and configuring opnSense\n6:01 DHCP settings\n6:34 Updating your system\n6:44 Changing interface assignments and other settings\n7:06 Thanks Bitdefender for sponsoring!\n8:12 Why do I need a switch?\n9:01 The last thing we need: Wi-Fi\n9:45 Lets run a speed test!\n10:29 Power efficiency options\n10:59 Conclusion",
+    "description_links": [
+        "https://lmg.gg/qMMV8",
+        "https://linustechtips.com/topic/1466389-your-router-sucks-build-your-own-instead-sponsored/",
+        "https://lttstore.com",
+        "https://www.floatplane.com/ltt",
+        "https://lmg.gg/sponsors",
+        "https://lmg.gg/podcastgear",
+        "https://twitter.com/linustech",
+        "http://www.facebook.com/LinusTech",
+        "https://www.instagram.com/linustech",
+        "https://www.tiktok.com/@linustech",
+        "https://www.twitch.tv/linustech",
+        "https://www.youtube.com/watch?v=PKfxmFU3lWY",
+        "https://itunes.apple.com/us/album/supernova/id936805712",
+        "https://soundcloud.com/laszlomusic",
+        "https://www.youtube.com/watch?v=ngsGBSCDwcI",
+        "http://spoti.fi/UxWkUw",
+        "http://www.youtube.com/approachingnirvana",
+        "https://www.instagram.com/mbarek_abdel/",
+        "https://geni.us/PgGWp",
+        "https://geni.us/mj6pHk4",
+        "https://geni.us/Ps3XfE"
+    ],
+    "transcript": "Are you tired of your wireless router dropping your internet connection at the worst possible time? Well, it turns out you can build your very own router that'll perform a lot better, and it's a lot simpler to do than you might think. But why do store-bought and ISP-provided routers tend to be so unreliable in the first place? Shutting down. This isn't Tech Quickie, this is Linus Tech Tips, where we actually do the things we talk about! So Bitdefender, a staple in cybersecurity, sponsored this video to show you how easy it is to get better performance and reliability as well as better security and privacy by building your own custom router. And, how you can even do it with your dad's dusty old dip. The problem with your typical big box or ISP-provided router is that they're usually not just a router. Instead, they're often combo devices that include a wireless access point to provide wifi, a switch to connect your local devices together, and the literal router which connects your local devices to the outside internet in a safe manner. Not only does this make it impossible to replace or upgrade any part independently of the others, but each of these functions can be better performed by separate, discreet devices. Now listen, it's not realistic or economical to try to build your own switch or access point, but the good news is that these devices are widely available at reasonable prices. The router though, that's a different story and that's what we're going to be focusing on building today. Pretty much any x86 computer from the last 10 or 15 years or so should work better than your typical diaper genie. We're going to be using this Dell Optiplex 7010 that Anthony previously used to build a home server. Since it's all form factor, won't take up too much space, it only costs around 100 bucks on eBay, and most importantly, see right there, it has an available PCIe Gen 3 slot. That's important because we need at least two network ports, one for LAN to connect to our switch and one for WAN to connect to our modem or fiberbox. Your old motherboard, including this one, probably only come with one jack, and while we could use that along with a separate port on another network card, you'll want to make sure that both are well supported by your router operating system of choice. More on that in a moment. While most network controllers may seem to work fine, you may run into performance issues with certain chipsets and certain manufacturers, so our recommendation is to stick to an Intel-based NIC whenever possible. If you're unsure of what NIC you have or whether your NIC is compatible, you can typically find the model on your motherboard box or product page, and from there, Google is your best friend. If that sounds like too much work, you can easily find older dual-port Intel network cards like the i340 for around 25 bucks on eBay, or maybe even cheaper from a local electronics recycler. We're going to be using the four-port version of this card since we already had one lying around. Oh, I don't even need a screwdriver. If I did, lttstore.com. Damn Optiplex's are too good. Now, if you happen to have greater than gigabit internet, a single-port Intel i225 2.5-gig NIC can be had for around the same price, and for 10-gig, the dual-port Intel X540 T2 will run you around 50 to 70 bucks on eBay, noctua fan not included. Now, since we're on the topic of hardware, our Optiplex is equipped with a Core i7 3770 and should be totally fine for running gigabit or 2.5-gig. If you want to go faster than that, say 10-gig, you're going to want more CPU power, so make sure you check the recommended specs and ask around the community to figure out what should work for you. We're going to also be installing a 256-gig SSD, which fits behind the hard drive pretty nicely, and we're also going to take this hard drive out because that's just a bunch of extra power consumption we don't need. With our hardware ready, it's time to talk software. The two biggest players in the space right now are PF Sense and OpenSense, both of which are based on the Unix-like operating system for EBSD. They're very similar because OpenSense started off as a fork of PF Sense, and you can't really go wrong with either, but we like OpenSense for its subjectively easier-to-use GUI and more frequent updates. For example, on our own Core router, the main 25-gig NIC in it still isn't supported by PF Sense. If you're following along at home, grab yourself a copy of OpenSense from the official site. Pick your architecture and select the VGA image type. The other option is serial, but if you use serial ports to manage your networking equipment, you probably don't need to be watching this video. To install OpenSense, you can use a tool like Etcher or Rufus to make a bootable USB installer, plug that into your soon-to-be router, and select it from the boot menu. Let all the countdowns finish, and if your computer happens to have an internal speaker like ours, you'll be greeted with a noise that sounds a little bit like a Japanese rice cooker. It's not unpleasant, it's just a bit loud. If your system doesn't have a display output, you can install OpenSense onto your drive in a different system and then move it over, but if you have a monitor, look at that monitor with your eyeballs. Throughout the boot sequence, it will ask for manual intervention a few times, but you can just skip these. Once you're greeted by the login prompt, take a second to check the port numbering on your system. You can do this by taking a cable that's plugged into a nearby PC and putting it into each port on the router and marking those ports down. This will be important later. Once you're done, hit enter to bring the login prompt back, type installer as the username, and OpenSense as the password. Don't worry here, if you're not seeing anything show up, it is actually typing, it's just not showing it for security. If you want to try OpenSense out, you can instead log in as root for a live install, but your settings will not survive a reboot without being manually backed up. You have been warned. Select your keyboard layout if it's not the default US map, hit install UFS, select your boot drive, hit OK on swap and the confirmation, and then OpenSense will install like a good little boy. Once it's done, we'd recommend changing your root password to something a little more secure, then you can exit and reboot. Tech tip, don't forget to remove the USB during the reboot, otherwise you might boot back into the installer. Once you're booted back up, plug your client system into the port selected as LAN in the console, then navigate to 192.168.1.1 in your browser. Login with root and the password you set, and bam! You now have a functional OpenSense router. From here, there's settings for just about anything you can imagine, but be careful because it's very easy to entirely bork your router if you go and change settings you don't understand. I'm going to show you guys a few important ones that will actually be helpful for you. First and foremost is the DHCP setting. By default, OpenSense sets its IP range on the DHCP server from .100 to .199. That means it's only going to allow for 100 devices connected to your network. For most home gamers, this is probably okay, but you can also tweak this down to say .50 and this one up to .254, and that's going to give you over 200 devices. You can also set the DNS settings that your clients use here. So if you want to use a Cloudflare or Google DNS, you'd want to put that in these fields, and then make sure you hit save when you're done. Otherwise, these settings won't apply. It's also important to know how to update your system. So to do so, go to system, firmware, and then updates. It'll check for any updates and then allow you to apply them. The last thing you'll probably want to know is how to change your interface assignments. These are going to be under interfaces and then assignments. From here, you can change your LAN or WAN ports if you want to use a different port, and this is where you would assign a VLAN if that's something you know how to set up. OpenSense has other cool features like being able to back up your config to Google Drive on a schedule. I'd highly recommend setting that up. You can disable the screaming rice cooker noise, and you can port forward like any other router, but be careful as the firewall is an important part of your network security. Aside from the limitless customization potential, frequent security updates, and the ability to swap parts, a DIY router encourages you to be more mindful not just in how your network is used, but how your network is protected. Just like Bitdefender Premium Security isn't just an antivirus product, it's a whole suite of tools designed to encourage you to be more mindful about how you use your devices. It's a password manager, so you can stop using password 123 for everything. It's a VPN, so you can stop using unsecured hotel Wi-Fi to do your important banking. It's a device optimizer, so your phone and computer don't get bogged down by temporary files from programs you installed two years ago, only to immediately uninstall. They have consistent top positioning and attacks and threat detection tests over the last eight years, and Bitdefender Premium Security offers unbeatable protection against spyware, malware, adware, and all other sorts of cyber threats with no compromise to your system's performance. You're not limited to your Windows system either as it works on Mac, iOS, and Android, and you're covered for up to 10 devices. It's easy to install, easy to run, and easy to check, so save up to 59% on a year of Bitdefender Premium Security at the link down below. You might have noticed by now that we only have a single LAN port assigned. Even if you had extra on your system and you wanted to use these for other devices, to have to use software switching on these ports is very inefficient and typically can't run anywhere near line speed. Instead, a cheap multi-port switch like this guy or the Netgear GS308 can be had for around $20 on Amazon. Or they can be even cheaper if they have a plastic housing or fewer ports. Just make sure that it's full gigabit speed. If you're running 2.5 gig or 10 gig, these switches get a lot more expensive, but we found a trend net 2.5 gig unit for $120. And for 10 gig, the cheapest option we could find is the Ubiquiti Switch Flex XG with four 10 gig ports for $300. Once you have some form of switch, plug it into the wall and then the LAN port of your router and any of your other devices on your network can plug directly into the remaining ports. The last thing we need to reach feature parity with our combo unit is some Wi-Fi. Now there's a lot of options here, ranging in price from literal trash, you can find at any dump, all the way up to enterprise grade access points that can run you thousands of dollars. Many of the off the shelf home routers that we've been talking about replacing can be used purely for Wi-Fi by finding a setting called AP mode or bridge mode. However, the performance is usually pretty not great. So unless you're trying to do this with hardware you already have, we'd recommend picking up a standalone access point like these from Ubiquiti or a mesh system like the TP-Link Deco, Netgear Orbi or Amazon's eero system. For the purposes of this video, we have a Ubiquiti UniFi 6 long range, which can be had for 179 bucks or the light version of it is only $100. You can also find them cheaper second-hand. Once your Wi-Fi is set up, everything should kind of just function together. So let's run a speed test. This is on wired on my laptop here, but we should be able to get full gigabit and we can see the CPU usage, which is very interesting. Oh, there we go. 2 ping, 700, 800, 900 megabits. And we're only using like 7% CPU usage, which is pretty dang good. Let's check our upload speed. It's basically the same, sweet. Let's try Wi-Fi. It's not a very good test on the Wi-Fi cause I don't know what it's set to, but I'm sure it's plenty fast. Yeah, like 200 down, that's pretty good. We're in a very congested area right now. There's a lot of access points and Wi-Fi and Bluetooth. So I wouldn't expect this piece to be too crazy, but your mileage may vary of course. If you're in a country where electricity is so expensive that running a 4090 is borderline unethical, you may instead opt for something a little more power efficient. Micro PCs like this won't be as upgradable, but can be as much as 10 times more power efficient. Some of them even have 2.5 gig ethernet built in. Now they do cost more upfront, but depending on your electricity costs, you might end up saving in the long run. Our OpiPlex was somewhere between 30 and 40 Watts while doing absolutely nothing. And I'm sure a lot more when the CPU starts to crank up. So your mileage may vary. That's it then for a hundred bucks on this OpiPlex, 20 bucks on a switch and a hundred bucks for an access point. We built an infinitely more configurable, more upgradable, more better router access point switch combo that you get to tinker with all on your own. You get better control of your network security and you get better control of your privacy. It's fun for the whole family, except when it doesn't work. But surely this will work more than your ISP provided one. So thanks to Bitdefender for sponsoring this video. Bitdefender premium security offers threat protection for up to 10 devices. And that includes an unlimited VPN, a password manager and priority support. So save 59% on a year of Bitdefender premium security by following the link in the description down below. If you liked this video, maybe check out that one where we upgraded our office router and took the internet out multiple times in the middle of the work day. It was funnier when we had like 15 employees. And now that there's like 80, it's a little prohibitive to do that. Yeah.",
+    "transcript_keywords": [
+        "Bitdefender Premium Security",
+        "router",
+        "Bitdefender Premium",
+        "system",
+        "Premium Security",
+        "OpenSense",
+        "devices",
+        "security",
+        "network",
+        "Bitdefender",
+        "ports",
+        "port",
+        "switch",
+        "NIC",
+        "wifi",
+        "bucks",
+        "wireless router dropping",
+        "access point",
+        "work",
+        "LAN"
+    ],
+    "transcript_entities": [
+        [
+            "NIC",
+            "PERSON"
+        ],
+        [
+            "900 megabits",
+            "QUANTITY"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "around $20",
+            "MONEY"
+        ],
+        [
+            "DNS",
+            "ORG"
+        ],
+        [
+            "100",
+            "CARDINAL"
+        ],
+        [
+            "eBay",
+            "ORG"
+        ],
+        [
+            "LAN",
+            "ORG"
+        ],
+        [
+            "VPN",
+            "PRODUCT"
+        ],
+        [
+            "SSD",
+            "ORG"
+        ],
+        [
+            "two years ago",
+            "DATE"
+        ],
+        [
+            "300",
+            "MONEY"
+        ],
+        [
+            "only $100",
+            "MONEY"
+        ],
+        [
+            "the last 10 or 15 years or so",
+            "DATE"
+        ],
+        [
+            "800",
+            "CARDINAL"
+        ],
+        [
+            "VGA",
+            "ORG"
+        ],
+        [
+            "around 50 to 70 bucks",
+            "CARDINAL"
+        ],
+        [
+            "AP",
+            "ORG"
+        ],
+        [
+            "25 bucks",
+            "MONEY"
+        ],
+        [
+            "Dell",
+            "ORG"
+        ],
+        [
+            "eero",
+            "FAC"
+        ],
+        [
+            "Bitdefender",
+            "ORG"
+        ],
+        [
+            "EBSD",
+            "ORG"
+        ],
+        [
+            "Mac",
+            "ORG"
+        ],
+        [
+            "WAN",
+            "PERSON"
+        ],
+        [
+            "OpiPlex",
+            "CARDINAL"
+        ],
+        [
+            "bork",
+            "PERSON"
+        ],
+        [
+            "around 100 bucks",
+            "MONEY"
+        ],
+        [
+            "GUI",
+            "ORG"
+        ],
+        [
+            "Anthony",
+            "PERSON"
+        ],
+        [
+            "Wi-Fi",
+            "FAC"
+        ],
+        [
+            "256",
+            "CARDINAL"
+        ],
+        [
+            "PCIe Gen 3",
+            "PRODUCT"
+        ],
+        [
+            "PF Sense",
+            "ORG"
+        ],
+        [
+            "VLAN",
+            "ORG"
+        ],
+        [
+            "700",
+            "CARDINAL"
+        ],
+        [
+            "ISP",
+            "NORP"
+        ],
+        [
+            "2 ping",
+            "QUANTITY"
+        ],
+        [
+            "noctua",
+            "ORG"
+        ],
+        [
+            "first",
+            "ORDINAL"
+        ],
+        [
+            "120",
+            "MONEY"
+        ],
+        [
+            "7010",
+            "PRODUCT"
+        ],
+        [
+            "Rufus",
+            "PERSON"
+        ],
+        [
+            "First",
+            "ORDINAL"
+        ],
+        [
+            "T2",
+            "ORG"
+        ],
+        [
+            "Japanese",
+            "NORP"
+        ],
+        [
+            "the Netgear GS308",
+            "ORG"
+        ],
+        [
+            "the TP-Link Deco",
+            "ORG"
+        ],
+        [
+            "Ubiquiti",
+            "ORG"
+        ],
+        [
+            "25",
+            "CARDINAL"
+        ],
+        [
+            "the last eight years",
+            "DATE"
+        ],
+        [
+            "Amazon",
+            "ORG"
+        ],
+        [
+            "80",
+            "DATE"
+        ],
+        [
+            "Linus Tech Tips",
+            "WORK_OF_ART"
+        ],
+        [
+            "at least two",
+            "CARDINAL"
+        ],
+        [
+            "CPU",
+            "ORG"
+        ],
+        [
+            "over 200",
+            "CARDINAL"
+        ],
+        [
+            "2.5",
+            "CARDINAL"
+        ],
+        [
+            "DIY",
+            "ORG"
+        ],
+        [
+            "Intel",
+            "ORG"
+        ],
+        [
+            "20 bucks",
+            "MONEY"
+        ],
+        [
+            "IP",
+            "ORG"
+        ],
+        [
+            "Optiplex",
+            "ORG"
+        ],
+        [
+            "thousands of dollars",
+            "MONEY"
+        ],
+        [
+            "four",
+            "CARDINAL"
+        ],
+        [
+            "Google",
+            "ORG"
+        ],
+        [
+            "Google Drive",
+            "ORG"
+        ],
+        [
+            "ISP",
+            "GPE"
+        ],
+        [
+            "up to 10",
+            "CARDINAL"
+        ],
+        [
+            ".50",
+            "CARDINAL"
+        ],
+        [
+            "Optiplex",
+            "PRODUCT"
+        ],
+        [
+            "3770",
+            "PRODUCT"
+        ],
+        [
+            "iOS",
+            "ORG"
+        ],
+        [
+            "Watts",
+            "PERSON"
+        ],
+        [
+            ".254",
+            "CARDINAL"
+        ],
+        [
+            "10",
+            "CARDINAL"
+        ],
+        [
+            "OpenSense",
+            "ORG"
+        ],
+        [
+            "jack",
+            "PERSON"
+        ],
+        [
+            "15",
+            "CARDINAL"
+        ],
+        [
+            "7%",
+            "PERCENT"
+        ],
+        [
+            "123",
+            "CARDINAL"
+        ],
+        [
+            "Wi-Fi",
+            "ORG"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "Netgear",
+            "ORG"
+        ],
+        [
+            "59%",
+            "PERCENT"
+        ],
+        [
+            "Android",
+            "ORG"
+        ],
+        [
+            "second",
+            "ORDINAL"
+        ],
+        [
+            "UFS",
+            "ORG"
+        ],
+        [
+            "NIC",
+            "ORG"
+        ],
+        [
+            "a year",
+            "DATE"
+        ],
+        [
+            "179 bucks",
+            "MONEY"
+        ],
+        [
+            "today",
+            "DATE"
+        ],
+        [
+            "a hundred bucks",
+            "MONEY"
+        ],
+        [
+            "Cloudflare",
+            "ORG"
+        ],
+        [
+            "DHCP",
+            "ORG"
+        ],
+        [
+            "up to 59%",
+            "PERCENT"
+        ],
+        [
+            "4090",
+            "CARDINAL"
+        ],
+        [
+            "Etcher",
+            "PERSON"
+        ],
+        [
+            "US",
+            "GPE"
+        ],
+        [
+            "200",
+            "CARDINAL"
+        ],
+        [
+            "as much as 10",
+            "CARDINAL"
+        ],
+        [
+            "WAN",
+            "ORG"
+        ],
+        [
+            "Bitdefender Premium Security",
+            "ORG"
+        ],
+        [
+            "USB",
+            "ORG"
+        ],
+        [
+            "Core",
+            "ORG"
+        ],
+        [
+            "10-gig",
+            "DATE"
+        ]
+    ]
+}

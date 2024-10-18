@@ -1,0 +1,349 @@
+{
+    "video_id": "qG8PaLmeUEE",
+    "title": "Nvidia has made an ABOMINATION",
+    "channel": "TechLinked",
+    "channel_id": "UCeeFfhMcJa1kjtfZAGskOCA",
+    "subscriber_count": 1900000,
+    "upload_date": "2022-03-24T00:40:08Z",
+    "video_url": "https://www.youtube.com/watch?v=qG8PaLmeUEE",
+    "category": "Science & Technology",
+    "tags": [
+        "Linus",
+        "LinusTechTips",
+        "tech news",
+        "Riley Murdock",
+        "tech",
+        "news",
+        "Riley",
+        "Nvidia",
+        "Superchip",
+        "Grace",
+        "Grace Hopper",
+        "Hopper",
+        "architecture",
+        "Grace CPU",
+        "Grace superchip",
+        "Grace CPU Superchip",
+        "NVLink",
+        "chiplet",
+        "GDC",
+        "Game Developer's Conference",
+        "2022",
+        "GDC 2022"
+    ],
+    "views": 576746,
+    "likes": 30423,
+    "comments_count": 572,
+    "description": "Check out AMP by CubeCoders at www.cubecoders.com/AMP/TL\n\n► LISTEN TO THE TECH NEWS: https://lmg.gg/TechLinkedPodcast\n►GET MERCH: http://www.LTTStore.com/\n►SUPPORT US ON FLOATPLANE: https://www.floatplane.com/  \n►LTX EXPO: https://www.ltxexpo.com/   \n\nNEWS SOURCES: https://lmg.gg/jhVdq\n---------------------------------------------------\nTimestamps:\n0:00 Wait til you see story # 4!! \n0:08 Nvidia Grace CPU Superchip\n1:29 FSR 2.0 on Xbox, Nvidia GPUs\n2:38 Mac Studio SSDs are not replaceable\n3:43 AMP by CubeCoders\n4:13 QUICK BITS\n4:18 Nothing Phone 1\n4:48 Lapsus$ hacks Microsoft, Okta\n5:29 Steam alpha for Chromebooks\n5:56 Snap buys NextMind\n6:20 Xbox Sonic furry controllers\n\nFOLLOW US ELSEWHERE\n---------------------------------------------------  \nTwitter: http://twitter.com/TechLinkedYT\nInstagram: http://instagram.com/TechLinkedYT\nFacebook: http://facebook.com/TechLinked",
+    "description_links": [
+        "https://lmg.gg/TechLinkedPodcast",
+        "http://www.LTTStore.com/",
+        "https://www.floatplane.com/",
+        "https://www.ltxexpo.com/",
+        "https://lmg.gg/jhVdq",
+        "http://twitter.com/TechLinkedYT",
+        "http://instagram.com/TechLinkedYT",
+        "http://facebook.com/TechLinked"
+    ],
+    "transcript": "- Whoa! I expected tech news but I was not ready for what happened next. - [Man] What is it, what are you doing? What is this, click bait, what? - Make that the title. - [Man] No. - Nvidia's plans to buy Arm fell through, but the company apparently continued working on Arm processors, including the beast of a server CPU they announced yesterday at the Game Developers Conference. The Grace Superchip. It's super because it consists of two CPUs fused together to create a super powerful processor. That's not ultra, that's super. - [Man] What's the difference? - One's Apple. The other thing that makes this super is it's 144 CPU cores and one terabyte per second of memory bandwidth. Much faster than M1 Ultra's 800 gigabytes per second- - [Man] That's for children. - Of course, Grace is for servers not consumers and not consumers who work as servers. So the more fair comparison is to AMD's Epic CPUs. Nvidia says Grace has 1.5 times more performance in a spec benchmark, than two last Gen Epic chips. Oh man, imagine how many frames that could get you in Elden Ring. - Blocked at 60. - Like, look how smoothly I can die. The other interesting thing is Nvidia announced that it's enterprise clients will be able to create custom configurations of CPUs and GPUS using NVLink which explains why they didn't join that universal chip interconnect express initiative that I always talk about on Tech Quickie. - Oh, were you? - It hasn't come out yet, but you'll see me. Same sweater. I mean, Arm is part of that so it might just be a bit awkward. - They're just staring at each other from across the room. - AMD is also at GDC this week and as promised, they released more information and a demo of their new FSR 2.0 technology which unlike Nvidia's DLSS 2.3, will be available on Xbox consoles and their competitor's graphics cards. It's like I drink your milkshake, but the opposite, - I give you my milkshake. - I blow in the straw and give you bubbles. - Hmm! - Happy times. AMD showed the tech running in DEATHLOOP at various quality settings and it does seem to benefit both quality and performance. But of course it does or AMD wouldn't have shown the demo or maybe they would, and they would a spoofed it or something. AMD has had some chaotic energy recently. - We're doctors, we can do whatever we want. - I only wear these glasses so I can take them off. (man laughing) Unlike the company's driver level Radeon Super Resolution tech, FSR 2.0 won't work across the board. It'll be up to game developers to enable it but it might be an interesting option for those with the GTX 1070 or above, which should not have the Tensor Cores necessary for DLSS support. Team Green left you behind, join the other one. - Team Blue (laughs)! Whoa got the- - Soon - (indistinctive) - Soon. Are you an (indistinctive)? And Enthusiast hopes that the Mac Studio's SSDs storage could be replaced, have been dashed after a couple of recent tear downs were posted on the weekend. YouTubers, Max Tech and Luke Miani, did manage to remove the studio storage only to discover that the machine would not boot with any alternative storage installed. - Very picky. - You know, we're doing this on LTT. There could still be a chance. - There could still be a chance! You're telling me there's a chance! - Exactly, so there's still a chance! Some speculated that apple had blocked upgrades using software while smart developer person, Hector Martin, two first names, pointed out that those SSDs were actually raw storage modules that require the SSD controller built into the M1 processor to work properly. But Hector also points out fairly that issues like this only arise because X86 enthusiasts try to put Macs in their PC box. When really the Mac Studio is a box that you can't really put else... anything else. - There's no room. - Else into. - Don't use it for storage. - It's a closed box. - It's just a box. It's just a box. - What's in the box? You don't get to know, that's why they use adhesive. Now it's time for the Quick Bits brought to you by CubeCoders AMP. The easy way to manage your self hosted game servers for Windows analytics, because you wanna forget about the nitty gritty and get back to farming mobs with your party. That's what it's all about. AMP's web based interface is easy to use and mobile friendly and supports dozens games including Valheim, Minecraft, and more. It's super easy to install and it has no monthly fees for the standard editions just a $10 USD one time cost with free lifetime updates. So learn more at cubecoders.com/AMP/TL (gasps) Here come the Quick Bits, stay calm just like we practiced. (man yelling) After teasing something for weeks, Nothing, the company founded by former OnePlus chief, Carl Pie? Announced their first phone called, what else? The Phone (1). True to their name, Nothing is still keeping the details scarce and promising a device that offers the most compelling alternative to Apple. The most we actually saw was an image of the home screen and an image of some lines that apparently represent the back of the phone. So yeah, basically nothing. (both laughing) That's what they wanted! - I see what they were doing now. - (sighs) Hacking group, (imitates lisp) Lapsus$, is certainly getting around recently. Microsoft confirmed the group has indeed managed to steal partial source code from some of their products, including Bing. - That's worth - Oh no! - Billions on the black market. And security company, Okta also confirmed the group had made off with some of their data. Although so far, neither incident seems to represent as severe a threat to end users as the Nvidia hack. I think it's time to ask whether Lapsus$ is able to get into all these company systems because they're actually an advanced AI that lives in the metaverse. - Whoa. - And if so, I can't wait to one V one them in Beat Saber. You get at me, Lapsus$! The Steam Alpha for Chromebooks has just been released for the Dev channel of ChromeOS. Right now, the alpha is only supported on a handful of Chromebooks, but if you really want, you really want to try what is actually a longer than anticipated list of currently available games. You can try it out. Although due to the inevitable early performance issues I'd prepare myself for a level of difficulty that puts Elden Ring to shame. Second Elden Ring reference. - Were you just waiting to unzip that the whole time? - I just... - Like, I'm gonna pull it out. - The story just made me... Snap inc. has acquired the brain computer interface company NextMind for an undisclosed amount. Next! - I don't want this one. - (laughs) Leading many to speculate that the company is looking to incorporate BCI tech into their spectacle smart glasses. I just hope that they do enough fine tuning on the model with thought control. Would really suck to think, \"Oh man, it would really suck to accidentally send this video to my friend.\" And then that's what happens. And Xbox is celebrating the upcoming release of Sonic the Hedgehog 2 with the new controllers covered in either blue or red fur. - No! - Unfortunately, these won't be available to buy... only make love to. (man laughing) Just joking, they will be prizes in a giveaway. Not sure how much of a prize it'll be. If it makes gamer's hand sweat syndrome worse, but weird stupid things like this are what makes life worth living. And they make the tech news. Come back on Friday for more of this kind of stuff. - (laughs) What? - This isn't your normal daytime TV news is it? We're so quirky. - Oh, you're so weird. - We're so furry. - I love how silly you are. (man laughing) (bird tweeting)",
+    "transcript_keywords": [
+        "AMD Epic CPUs",
+        "tech",
+        "super",
+        "AMD",
+        "Nvidia",
+        "Elden Ring",
+        "company",
+        "box",
+        "Super Resolution tech",
+        "Mac Studio",
+        "storage",
+        "CPUs",
+        "Grace",
+        "Arm",
+        "Game Developers Conference",
+        "Mac Studio SSDs",
+        "Quick Bits",
+        "time",
+        "AMD Epic",
+        "chance"
+    ],
+    "transcript_entities": [
+        [
+            "Radeon Super Resolution",
+            "ORG"
+        ],
+        [
+            "yesterday",
+            "DATE"
+        ],
+        [
+            "weeks",
+            "DATE"
+        ],
+        [
+            "Okta",
+            "ORG"
+        ],
+        [
+            "NextMind",
+            "PRODUCT"
+        ],
+        [
+            "Elden Ring",
+            "GPE"
+        ],
+        [
+            "Tech Quickie",
+            "ORG"
+        ],
+        [
+            "one terabyte",
+            "QUANTITY"
+        ],
+        [
+            "the weekend",
+            "DATE"
+        ],
+        [
+            "OnePlus",
+            "PRODUCT"
+        ],
+        [
+            "the Game Developers Conference",
+            "EVENT"
+        ],
+        [
+            "60",
+            "CARDINAL"
+        ],
+        [
+            "one",
+            "CARDINAL"
+        ],
+        [
+            "Lapsus$",
+            "GPE"
+        ],
+        [
+            "Elden Ring",
+            "PERSON"
+        ],
+        [
+            "GPUS",
+            "ORG"
+        ],
+        [
+            "the Mac Studio",
+            "ORG"
+        ],
+        [
+            "Minecraft",
+            "ORG"
+        ],
+        [
+            "daytime",
+            "DATE"
+        ],
+        [
+            "Max Tech",
+            "ORG"
+        ],
+        [
+            "Apple",
+            "ORG"
+        ],
+        [
+            "LTT",
+            "ORG"
+        ],
+        [
+            "$10 USD",
+            "MONEY"
+        ],
+        [
+            "AI",
+            "ORG"
+        ],
+        [
+            "monthly",
+            "DATE"
+        ],
+        [
+            "Grace",
+            "PERSON"
+        ],
+        [
+            "Chromebooks",
+            "ORG"
+        ],
+        [
+            "GDC",
+            "ORG"
+        ],
+        [
+            "Microsoft",
+            "ORG"
+        ],
+        [
+            "Friday",
+            "DATE"
+        ],
+        [
+            "Gen Epic",
+            "EVENT"
+        ],
+        [
+            "Luke Miani",
+            "PERSON"
+        ],
+        [
+            "FSR",
+            "ORG"
+        ],
+        [
+            "Hector",
+            "PERSON"
+        ],
+        [
+            "Macs",
+            "ORG"
+        ],
+        [
+            "Valheim",
+            "ORG"
+        ],
+        [
+            "The Grace Superchip",
+            "FAC"
+        ],
+        [
+            "The Steam Alpha for Chromebooks",
+            "ORG"
+        ],
+        [
+            "AMD",
+            "ORG"
+        ],
+        [
+            "first",
+            "ORDINAL"
+        ],
+        [
+            "M1",
+            "PRODUCT"
+        ],
+        [
+            "1",
+            "CARDINAL"
+        ],
+        [
+            "Nvidia",
+            "ORG"
+        ],
+        [
+            "AMD",
+            "PRODUCT"
+        ],
+        [
+            "YouTubers",
+            "ORG"
+        ],
+        [
+            "Beat Saber",
+            "FAC"
+        ],
+        [
+            "two",
+            "CARDINAL"
+        ],
+        [
+            "144",
+            "CARDINAL"
+        ],
+        [
+            "Team Green",
+            "ORG"
+        ],
+        [
+            "the Mac Studio's",
+            "ORG"
+        ],
+        [
+            "dozens",
+            "CARDINAL"
+        ],
+        [
+            "CubeCoders AMP",
+            "PRODUCT"
+        ],
+        [
+            "Hector Martin",
+            "PERSON"
+        ],
+        [
+            "Tensor Cores",
+            "PRODUCT"
+        ],
+        [
+            "this week",
+            "DATE"
+        ],
+        [
+            "DLSS",
+            "ORG"
+        ],
+        [
+            "AMP",
+            "ORG"
+        ],
+        [
+            "Lapsus$",
+            "ORG"
+        ],
+        [
+            "Sonic the Hedgehog 2",
+            "ORG"
+        ],
+        [
+            "Xbox",
+            "ORG"
+        ],
+        [
+            "CPU",
+            "ORG"
+        ],
+        [
+            "the Quick Bits",
+            "ORG"
+        ],
+        [
+            "Carl Pie",
+            "PERSON"
+        ],
+        [
+            "NVLink",
+            "ORG"
+        ],
+        [
+            "1.5",
+            "CARDINAL"
+        ],
+        [
+            "the Quick Bits",
+            "PRODUCT"
+        ],
+        [
+            "M1 Ultra's",
+            "ORG"
+        ],
+        [
+            "Grace",
+            "ORG"
+        ],
+        [
+            "SSD",
+            "ORG"
+        ]
+    ]
+}
